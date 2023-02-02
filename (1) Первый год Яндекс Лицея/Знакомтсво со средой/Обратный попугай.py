@@ -1,0 +1,6 @@
+Parrot1 = input()
+Parrot2 = input()
+Parrot3 = input()
+print(Parrot3)
+print(Parrot2)
+print(Parrot1) 
