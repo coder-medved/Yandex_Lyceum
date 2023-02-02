@@ -1,0 +1,1272 @@
+<html lang="ru" data-rh="lang"><script async="" src="https://chat.s3.yandex.net/widget_ya.js"></script><head><style type="text/css" data-tippy-stylesheet="">.tippy-iOS{cursor:pointer!important;-webkit-tap-highlight-color:transparent}.tippy-popper{transition-timing-function:cubic-bezier(.165,.84,.44,1);max-width:calc(100% - 8px);pointer-events:none;outline:0}.tippy-popper[x-placement^=top] .tippy-backdrop{border-radius:40% 40% 0 0}.tippy-popper[x-placement^=top] .tippy-roundarrow{bottom:-7px;bottom:-6.5px;-webkit-transform-origin:50% 0;transform-origin:50% 0;margin:0 3px}.tippy-popper[x-placement^=top] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(180deg);transform:rotate(180deg)}.tippy-popper[x-placement^=top] .tippy-arrow{border-top:8px solid #333;border-right:8px solid transparent;border-left:8px solid transparent;bottom:-7px;margin:0 3px;-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=top] .tippy-backdrop{-webkit-transform-origin:0 25%;transform-origin:0 25%}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-55%);transform:scale(1) translate(-50%,-55%)}.tippy-popper[x-placement^=top] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-50%,-45%);transform:scale(.2) translate(-50%,-45%);opacity:0}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(-20px);transform:translateY(-20px)}.tippy-popper[x-placement^=top] [data-animation=perspective]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateY(-10px) rotateX(0);transform:perspective(700px) translateY(-10px) rotateX(0)}.tippy-popper[x-placement^=top] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) translateY(0) rotateX(60deg);transform:perspective(700px) translateY(0) rotateX(60deg)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateY(-10px);transform:translateY(-10px)}.tippy-popper[x-placement^=top] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=top] [data-animation=scale]{-webkit-transform-origin:bottom;transform-origin:bottom}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=visible]{-webkit-transform:translateY(-10px) scale(1);transform:translateY(-10px) scale(1)}.tippy-popper[x-placement^=top] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(-10px) scale(.5);transform:translateY(-10px) scale(.5)}.tippy-popper[x-placement^=bottom] .tippy-backdrop{border-radius:0 0 30% 30%}.tippy-popper[x-placement^=bottom] .tippy-roundarrow{top:-7px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%;margin:0 3px}.tippy-popper[x-placement^=bottom] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(0);transform:rotate(0)}.tippy-popper[x-placement^=bottom] .tippy-arrow{border-bottom:8px solid #333;border-right:8px solid transparent;border-left:8px solid transparent;top:-7px;margin:0 3px;-webkit-transform-origin:50% 100%;transform-origin:50% 100%}.tippy-popper[x-placement^=bottom] .tippy-backdrop{-webkit-transform-origin:0 -50%;transform-origin:0 -50%}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-45%);transform:scale(1) translate(-50%,-45%)}.tippy-popper[x-placement^=bottom] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-50%);transform:scale(.2) translate(-50%);opacity:0}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateY(20px);transform:translateY(20px)}.tippy-popper[x-placement^=bottom] [data-animation=perspective]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateY(10px) rotateX(0);transform:perspective(700px) translateY(10px) rotateX(0)}.tippy-popper[x-placement^=bottom] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) translateY(0) rotateX(-60deg);transform:perspective(700px) translateY(0) rotateX(-60deg)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateY(10px);transform:translateY(10px)}.tippy-popper[x-placement^=bottom] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateY(0);transform:translateY(0)}.tippy-popper[x-placement^=bottom] [data-animation=scale]{-webkit-transform-origin:top;transform-origin:top}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=visible]{-webkit-transform:translateY(10px) scale(1);transform:translateY(10px) scale(1)}.tippy-popper[x-placement^=bottom] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateY(10px) scale(.5);transform:translateY(10px) scale(.5)}.tippy-popper[x-placement^=left] .tippy-backdrop{border-radius:50% 0 0 50%}.tippy-popper[x-placement^=left] .tippy-roundarrow{right:-12px;-webkit-transform-origin:33.33333333% 50%;transform-origin:33.33333333% 50%;margin:3px 0}.tippy-popper[x-placement^=left] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(90deg);transform:rotate(90deg)}.tippy-popper[x-placement^=left] .tippy-arrow{border-left:8px solid #333;border-top:8px solid transparent;border-bottom:8px solid transparent;right:-7px;margin:3px 0;-webkit-transform-origin:0 50%;transform-origin:0 50%}.tippy-popper[x-placement^=left] .tippy-backdrop{-webkit-transform-origin:50% 0;transform-origin:50% 0}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-50%);transform:scale(1) translate(-50%,-50%)}.tippy-popper[x-placement^=left] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-75%,-50%);transform:scale(.2) translate(-75%,-50%);opacity:0}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(-20px);transform:translateX(-20px)}.tippy-popper[x-placement^=left] [data-animation=perspective]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateX(-10px) rotateY(0);transform:perspective(700px) translateX(-10px) rotateY(0)}.tippy-popper[x-placement^=left] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) translateX(0) rotateY(-60deg);transform:perspective(700px) translateX(0) rotateY(-60deg)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateX(-10px);transform:translateX(-10px)}.tippy-popper[x-placement^=left] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=left] [data-animation=scale]{-webkit-transform-origin:right;transform-origin:right}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=visible]{-webkit-transform:translateX(-10px) scale(1);transform:translateX(-10px) scale(1)}.tippy-popper[x-placement^=left] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(-10px) scale(.5);transform:translateX(-10px) scale(.5)}.tippy-popper[x-placement^=right] .tippy-backdrop{border-radius:0 50% 50% 0}.tippy-popper[x-placement^=right] .tippy-roundarrow{left:-12px;-webkit-transform-origin:66.66666666% 50%;transform-origin:66.66666666% 50%;margin:3px 0}.tippy-popper[x-placement^=right] .tippy-roundarrow svg{position:absolute;left:0;-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}.tippy-popper[x-placement^=right] .tippy-arrow{border-right:8px solid #333;border-top:8px solid transparent;border-bottom:8px solid transparent;left:-7px;margin:3px 0;-webkit-transform-origin:100% 50%;transform-origin:100% 50%}.tippy-popper[x-placement^=right] .tippy-backdrop{-webkit-transform-origin:-50% 0;transform-origin:-50% 0}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=visible]{-webkit-transform:scale(1) translate(-50%,-50%);transform:scale(1) translate(-50%,-50%)}.tippy-popper[x-placement^=right] .tippy-backdrop[data-state=hidden]{-webkit-transform:scale(.2) translate(-25%,-50%);transform:scale(.2) translate(-25%,-50%);opacity:0}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-toward][data-state=hidden]{opacity:0;-webkit-transform:translateX(20px);transform:translateX(20px)}.tippy-popper[x-placement^=right] [data-animation=perspective]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=visible]{-webkit-transform:perspective(700px) translateX(10px) rotateY(0);transform:perspective(700px) translateX(10px) rotateY(0)}.tippy-popper[x-placement^=right] [data-animation=perspective][data-state=hidden]{opacity:0;-webkit-transform:perspective(700px) translateX(0) rotateY(60deg);transform:perspective(700px) translateX(0) rotateY(60deg)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=fade][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=visible]{-webkit-transform:translateX(10px);transform:translateX(10px)}.tippy-popper[x-placement^=right] [data-animation=shift-away][data-state=hidden]{opacity:0;-webkit-transform:translateX(0);transform:translateX(0)}.tippy-popper[x-placement^=right] [data-animation=scale]{-webkit-transform-origin:left;transform-origin:left}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=visible]{-webkit-transform:translateX(10px) scale(1);transform:translateX(10px) scale(1)}.tippy-popper[x-placement^=right] [data-animation=scale][data-state=hidden]{opacity:0;-webkit-transform:translateX(10px) scale(.5);transform:translateX(10px) scale(.5)}.tippy-tooltip{position:relative;color:#fff;border-radius:.25rem;font-size:.875rem;padding:.3125rem .5625rem;line-height:1.4;text-align:center;background-color:#333}.tippy-tooltip[data-size=small]{padding:.1875rem .375rem;font-size:.75rem}.tippy-tooltip[data-size=large]{padding:.375rem .75rem;font-size:1rem}.tippy-tooltip[data-animatefill]{overflow:hidden;background-color:transparent}.tippy-tooltip[data-interactive],.tippy-tooltip[data-interactive] .tippy-roundarrow path{pointer-events:auto}.tippy-tooltip[data-inertia][data-state=visible]{transition-timing-function:cubic-bezier(.54,1.5,.38,1.11)}.tippy-tooltip[data-inertia][data-state=hidden]{transition-timing-function:ease}.tippy-arrow,.tippy-roundarrow{position:absolute;width:0;height:0}.tippy-roundarrow{width:18px;height:7px;fill:#333;pointer-events:none}.tippy-backdrop{position:absolute;background-color:#333;border-radius:50%;width:calc(110% + 2rem);left:50%;top:50%;z-index:-1;transition:all cubic-bezier(.46,.1,.52,.98);-webkit-backface-visibility:hidden;backface-visibility:hidden}.tippy-backdrop:after{content:"";float:left;padding-top:100%}.tippy-backdrop+.tippy-content{transition-property:opacity;will-change:opacity}.tippy-backdrop+.tippy-content[data-state=visible]{opacity:1}.tippy-backdrop+.tippy-content[data-state=hidden]{opacity:0}</style><title>Материал «Учебник | Условный оператор» — Условный оператор — Основы программирования на языке Python | Д21 — Лицей Академии Яндекса</title><meta data-rh="true" name="viewport" content="width=device-width, initial-scale=1"><link rel="preload" href="https://yastatic.net/s3/home/fonts/ys/1/text-regular.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="https://yastatic.net/s3/home/fonts/ys/1/text-medium.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="https://yastatic.net/s3/home/fonts/ys/1/text-bold.woff2" as="font" type="font/woff2" crossorigin="anonymous"><link rel="preload" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/vendors.css" as="style"><link rel="preload" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/client.css" as="style"><link rel="preload" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/runtime.js" as="script"><link rel="preload" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/vendors.bundle.js" as="script"><link rel="preload" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/client.bundle.js" as="script"><link rel="preload" href="https://yastatic.net/q/forms-frontend-ext/_/embed.js" as="script"><script defer="" nonce="" src="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/runtime.js"></script><script defer="" nonce="" src="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/vendors.bundle.js"></script><script defer="" nonce="" src="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/client.bundle.js"></script><script nonce="" src="/static/bunker.js"></script><script defer="" src="https://yastatic.net/q/forms-frontend-ext/_/embed.js"></script><script src="https://yandex.st/contest/mathjax/MathJax.js?config=MML_CHTML" nonce=""></script><script nonce="">
+              (function(window) {
+    window.Ya = window.Ya || {};
+
+    if (Ya.Rum) {
+        throw new Error('Rum: interface is already defined');
+    }
+
+    Ya.Rum = {};
+
+    var rum = Ya.Rum;
+
+    rum.getSetting = function(settingName) {
+        var setting = rum._errorSettings[settingName];
+
+        return setting === null ? null : setting || '';
+    };
+})(typeof self !== 'undefined' ? self : window);
+(function(window, rum) {
+    var PATH_CLIENT_ERROR = '690.2354'; // tech.client_error
+    var PATH_UNCAUGHT_ERROR = '690.2361'; // tech.uncaught_error
+    var PATH_EXTERNAL_ERROR = '690.2854'; // tech.external_error
+    var PATH_SCRIPT_ERROR = '690.2609'; // tech.script_error
+
+    var LIMIT_CLIENT_ERROR = 1000;
+    var LIMIT_UNCAUGHT_ERROR = 100;
+    var LIMIT_EXTERNAL_ERROR = 100;
+    var LIMIT_SCRIPT_ERROR = 100;
+
+    var SILENT_LIMIT_CLIENT_ERROR = 100;
+    var SILENT_LIMIT_UNCAUGHT_ERROR = 10;
+    var SILENT_LIMIT_EXTERNAL_ERROR = 10;
+    var SILENT_LIMIT_SCRIPT_ERROR = 10;
+
+    var types = {
+        // type: [path, limit, silentLimit, sent]
+        client: [PATH_CLIENT_ERROR, LIMIT_CLIENT_ERROR, SILENT_LIMIT_CLIENT_ERROR, 0],
+        uncaught: [PATH_UNCAUGHT_ERROR, LIMIT_UNCAUGHT_ERROR, SILENT_LIMIT_UNCAUGHT_ERROR, 0],
+        external: [PATH_EXTERNAL_ERROR, LIMIT_EXTERNAL_ERROR, SILENT_LIMIT_EXTERNAL_ERROR, 0],
+        script: [PATH_SCRIPT_ERROR, LIMIT_SCRIPT_ERROR, SILENT_LIMIT_SCRIPT_ERROR, 0]
+    };
+
+    var pending = {};
+
+    rum.ERROR_LEVEL = {
+        INFO: 'info',
+        DEBUG: 'debug',
+        WARN: 'warn',
+        ERROR: 'error',
+        FATAL: 'fatal'
+    };
+
+    // можно переопределить при инициализации
+    rum._errorSettings = {
+        clck: 'https://yandex.ru/clck/click',
+        beacon: true,
+        project: 'unknown',
+        page: '',
+        env: '',
+        experiments: [],
+        additional: {},
+        platform: '',
+        // регион из геобазы
+        region: '',
+        dc: '',
+        host: '',
+        service: '',
+        level: '',
+        version: '',
+        yandexuid: '',
+        coordinates_gp: '',
+        referrer: '',
+        preventError: false,
+        unhandledRejection: false,
+        uncaughtException: true,
+        debug: false,
+        limits: {},
+        silent: {},
+        filters: {},
+        pageMaxAge: 10/*day*/ * 24/*hours*/ * 60/*minutes*/ * 60/*seconds*/ * 1000 /*ms*/,
+        initTimestamp: +new Date()
+    };
+
+    var inited = false;
+
+    /**
+     * Инициализация параметров для отправки ошибок
+     *
+     * @param {Object} settings
+     */
+    rum.initErrors = function(settings) {
+        objectExtend(rum._errorSettings, settings);
+        if (!inited && rum._errorSettings['uncaughtException']) {
+            subscribe();
+            inited = true;
+        }
+    };
+
+    /**
+     * Изменение параметров для отправки ошибок
+     *
+     * @param {Object} settings
+     */
+    rum.updateErrors = function(settings) {
+        objectExtend(rum._errorSettings, settings);
+    };
+
+    /**
+     * Shallow merge additional
+     *
+     * @param {Object} additional
+     */
+    rum.updateAdditional = function(additional) {
+        rum._errorSettings.additional = objectExtend(rum._errorSettings.additional || {}, additional);
+    };
+
+    /**
+     * Обрабатывает ошибку и отправляет счётчик.
+     * В случае режима отладки, выводит отладочную информацию в консоль браузера.
+     *
+     * @param {Error} event
+     * @param {Boolean} isCustom
+     */
+    rum._handleError = function(event, isCustom) {
+        var settings = rum._errorSettings;
+
+        if (settings.preventError && event.preventDefault) {
+            event.preventDefault();
+        }
+
+        var error, errorType;
+
+        if (!isCustom) {
+            error = rum._normalizeError(event);
+            errorType = error.type;
+
+            var onError = settings.onError;
+            if (typeof onError === 'function') {
+                onError(error);
+            }
+
+            var transform = settings.transform;
+            if (typeof transform === 'function') {
+                error = transform(error);
+            }
+        } else {
+            error = event;
+            errorType = 'client';
+        }
+        var currentTimestamp = +new Date();
+        var initTimestamp = settings.initTimestamp;
+        var pageMaxAge = settings.pageMaxAge;
+        if (pageMaxAge !== -1 && initTimestamp && initTimestamp + pageMaxAge < currentTimestamp) {
+            return;
+        }
+
+        var limit = types[errorType][1];
+        if (typeof settings.limits[errorType] === 'number') {
+            limit = settings.limits[errorType];
+        }
+        var silentLimit = types[errorType][2];
+        if (typeof settings.silent[errorType] === 'number') {
+            silentLimit = settings.silent[errorType];
+        }
+
+        var sent = types[errorType][3];
+        if (sent < limit || limit === -1) {
+            error.path = types[errorType][0];
+
+            /* В первой итерации решили писать как есть
+            if (error.stack) {
+                // Убираем первую строку - обычно она равна msg.
+                // Вырезаем yastatic.net чтобы сэкономить место в логах
+                error.stack = error.stack
+                    .split('\n').slice(1, 7).join('; ')
+                    .replace(/\s+/g, ' ')
+                    .replace(/https:\/\/([^.]+\.)?yastatic.net/, '$1');
+            }
+            */
+
+            var sendData = rum._getErrorData(error, {
+                silent: sent < silentLimit || silentLimit === -1 ? 'no' : 'yes',
+                isCustom: Boolean(isCustom)
+            }, settings);
+
+            var send = function(sendData) {
+                pending[error.message] = false;
+
+                rum._sendError(sendData.path, sendData.vars);
+
+                types[errorType][3]++;
+            }.bind(this, sendData);
+
+            if (typeof settings.throttleSend === 'undefined') {
+                send();
+            } else {
+                if (pending[error.message]) {
+                    return;
+                }
+
+                pending[error.message] = true;
+
+                setTimeout(send, settings.throttleSend);
+            }
+        }
+    };
+
+    /**
+     * Формирует данные для отправки
+     *
+     * @param {LogErrors~Error} err
+     * @param {Object} params
+     * @param {Object} settings
+     */
+    rum._getErrorData = function (err, params, settings) {
+        params = params || {};
+        var additional = '';
+        try {
+            var additionalObject = objectExtend(objectExtend({}, settings.additional), err.additional);
+            if (Object.keys(additionalObject).length !== 0) {
+                additional = JSON.stringify(additionalObject);
+            }
+        } catch (e) {
+            if (settings.debug && window.console) {
+                // eslint-disable-next-line no-console
+                console.error('[error-counter] json.stringify:', e);
+            }
+        }
+
+        var experiments = settings.experiments instanceof Array ? settings.experiments.join(';') : '';
+        var vars = {
+            // генерится браузером
+            '-stack': err.stack,
+            '-url': err.file,
+            '-line': err.line,
+            '-col': err.col,
+
+            // блок, в котором произошла ошибка
+            '-block': err.block,
+
+            // метод, в котором произошла ошибка
+            '-method': err.method,
+
+            // заполняется в событии браузера или передается вручную
+            '-msg': err.message,
+
+            // окружение
+            '-env': settings.env,
+
+            // вспомогательные поля для понимания типа внешних ошибок
+            '-external': err.external,
+            '-externalCustom': err.externalCustom,
+
+            // принадлежность к сервису
+            '-project': settings.project,
+            '-service': err.service || settings.service,
+            '-page': err.page || settings.page,
+
+            // платформа
+            '-platform': settings.platform,
+
+            // критичность
+            '-level': err.level,
+
+            // эксперименты
+            '-experiments': experiments,
+
+            // версия статики
+            '-version': settings.version,
+
+            // регион
+            '-region': settings.region,
+
+            // датацентр
+            '-dc': settings.dc,
+
+            // имя хоста
+            '-host': settings.host,
+
+            // id пользователя
+            '-yandexuid': settings.yandexuid,
+
+            // кука с кооординатами
+            '-coordinates_gp': err.coordinates_gp || settings.coordinates_gp,
+
+            '-referrer': settings.referrer,
+
+            // источник ошибки
+            '-source': err.source,
+
+            // метод/ручка источника ошибки
+            '-sourceMethod': err.sourceMethod,
+
+            // тип ошибки
+            // logic, render, network, ...
+            '-type': params.isCustom ? err.type : '',
+
+            // хэш с дополнительными параметрами
+            '-additional': additional,
+
+            // наличие блокировщиков рекламы
+            '-adb': castBlocker(Ya.blocker) || castBlocker(settings.blocker),
+
+            // CDN из https://yastatic.net/nearest.js
+            '-cdn': window.YaStaticRegion,
+
+            // ua - попробуем брать из кук
+            '-ua': navigator.userAgent,
+
+            // если кол-во ошибок от 1 пользователя слишком большое, тогда отсылаем признак,
+            // чтобы отфильтровывать эти ошибки в Голован
+            '-silent': params.silent,
+
+            // клиентское время ошибки
+            '-ts': +new Date(),
+            '-init-ts': settings.initTimestamp,
+        };
+
+        if (settings.debug && window.console) {
+            // eslint-disable-next-line no-console
+            console[console[err.level] ? err.level : 'error']('[error-counter] ' + err.message, vars, err.stack);
+        }
+
+        return {
+            path: err.path,
+            vars: vars
+        };
+    };
+
+    /**
+     *
+     *
+     * @param target {Object}
+     * @param object {Object}
+     * @return {Object}
+     */
+    function objectExtend(target, object) {
+        for (var name in object) {
+            if (object.hasOwnProperty(name)) {
+                target[name] = object[name];
+            }
+        }
+
+        return target;
+    }
+
+    /**
+     * Приводит ошибки к общему виду.
+     *
+     * @param {Error} err
+     * @returns {Object}
+     */
+    rum._baseNormalizeError = function (err) {
+        err = err || {};
+        var file = err.filename || err.fileName || '';
+        var stack = (err.error && err.error.stack) || err.stack || '';
+        var message = err.message || '';
+
+        return {
+            file: file,
+            line: err.lineno || err.lineNumber,
+            col: err.colno || err.colNumber,
+            stack: stack,
+            message: message,
+            additional: err.additional
+        };
+    };
+
+    /**
+     * Приводит ошибки к общему виду c type & external.
+     *
+     * @param {Error} err
+     * @returns {Object}
+     */
+    rum._normalizeError = function (err) {
+        var error = rum._baseNormalizeError(err);
+        var type = 'uncaught';
+        var externalParams = rum._isExternalError(error.file, error.message, error.stack);
+        var externalParamsCommon = '';
+        var externalParamsCustom = '';
+
+        if (externalParams.hasExternal) {
+            type = 'external';
+
+            externalParamsCommon = externalParams.common;
+            externalParamsCustom = externalParams.custom;
+        } else if (/^Script error\.?$/.test(error.message)) {
+            type = 'script';
+        }
+
+        error.external = externalParamsCommon;
+        error.externalCustom = externalParamsCustom;
+        error.type = type;
+
+        return error;
+    };
+
+    /**
+     * Преобразует объект c vars в строку.
+     *
+     * @param {Object} vars
+     * @returns {String}
+     */
+    function createVarsString(vars) {
+        var varsArr = [];
+
+        for (var key in vars) {
+            if (vars.hasOwnProperty(key) && (vars[key] || vars[key] === 0)) {
+                varsArr.push(key + '=' + encodeURIComponent(vars[key]).replace(/\*/g, '%2A'));
+            }
+        }
+
+        return varsArr.join(',');
+    }
+
+    function castBlocker(value) {
+        if (typeof(value) === 'boolean') {
+            value = +value;
+        }
+        if (typeof (value) === 'number') {
+            return value + '';
+        }
+
+        return null;
+    }
+
+    /**
+     * Отправляет счётчик об ошибке
+     *
+     * @param {string} path
+     * @param {Object} vars
+     */
+    rum._sendError = function(path, vars) {
+        rum.send(null, path, createVarsString(vars), null, null, null, null);
+    };
+
+    /**
+     * Отправляет неотловленную ошибку
+     *
+     * @param {Error} event
+     */
+    var handleError = function(error) {
+        rum._handleError(error, false);
+    };
+
+    function subscribe() {
+        if (window.addEventListener) {
+            // обработчик ошибок, которые не были перехвачены через try..catch
+            window.addEventListener('error', handleError);
+
+            if ('Promise' in window && rum._errorSettings.unhandledRejection) {
+                window.addEventListener('unhandledrejection', function (event) {
+                    var reason = event.reason;
+                    var message, additional = {};
+
+                    if (reason) {
+                        if (reason.stack && reason.message) {
+                            message = reason.message;
+                        } else {
+                            message = String(reason);
+
+                            if (message === '[object Event]') {
+                                message = 'event.type: ' + reason.type;
+                            } else if (message === '[object Object]') {
+                                additional.unhandledObject = reason;
+                            }
+                        }
+
+                        if (reason.target && reason.target.src) {
+                            additional.src = reason.target.src;
+                        }
+
+                        handleError({
+                            message: 'Unhandled rejection: ' + message,
+                            stack: reason.stack,
+                            additional: additional
+                        });
+                    }
+                });
+            }
+        } else {
+            // фоллбек для старых браузеров
+            var oldOnError = window.onerror;
+            window.onerror = function (message, file, lineNumber, columnNumber, error) {
+                handleError({
+                    error : error || new Error(message || 'Empty error'),
+                    message : message,
+                    lineno : lineNumber,
+                    colno: columnNumber,
+                    filename : file
+                });
+
+                if (oldOnError) {
+                    oldOnError.apply(this, arguments);
+                }
+            };
+        }
+    }
+})(typeof self !== 'undefined' ? self : window, Ya.Rum);
+(function(rum) {
+    // Вместе с ошибкой передается ее идетнификатор в этом списке, чтобы можно было ее распознать
+    var filters = {
+        url: {
+            // Ошибки API расширений браузеров.
+            '0': /(miscellaneous|extension)_bindings/,
+
+            // Ошибки из внутренних элементов браузера Chrome.
+            '1': /^chrome:/,
+
+            // Ошибки из расширения Kaspersky Protection.
+            '2': /kaspersky-labs\.com\//,
+
+            // Ошибки из расширений браузеров
+            '3': /^(?:moz|chrome)-extension:\/\//,
+
+            // Ошибки из пользовательских файлов.
+            '4': /^file:/,
+
+            // Ошибки в подгружаемых ресурсах (типа дополнительных скриптов расширений или Java-апплетов в Firefox)
+            '5': /^resource:\/\//,
+
+            // Ошибки в сеошном расширении https://nda.ya.ru/3UVNQe
+            '6': /webnetc\.top/,
+
+            // Ошибки AdGuard
+            '7': /local\.adguard\.com/
+        },
+        message: {
+            // Ошибки AdGuard.
+            '0': /__adgRemoveDirect/,
+
+            // Ошибки в CSP.
+            '1': /Content Security Policy/,
+
+            // Ошибки vid_mate_check is not defined
+            '2': /vid_mate_check/,
+
+            // Ошибки UC Browser.
+            '3': /ucapi/,
+
+            // Ошибки при обращении к элементам айфреймов в IE
+            '4': /Access is denied/i,
+
+            // Ошибки при обращении к элементам айфреймов
+            '5': /^Uncaught SecurityError/i,
+
+            // Ошибки Can't find variable: __ybro
+            '6': /__ybro/,
+
+            // Ошибки ReferenceError: __show__deepen is not defined
+            '7': /__show__deepen/,
+
+            // ntp is not defined
+            '8': /ntp is not defined/,
+
+            // Cannot set property 'install' of undefined
+            '9': /Cannot set property 'install' of undefined/,
+
+            // Внутренние ошибки файерфокса
+            '10': /NS_ERROR/,
+
+            // Ошибка загрузки скриптов по какой-либо причине (сетевые проблемы?)
+            '11': /Error loading script/,
+
+            // TypeError: undefined is not a function
+            '12': /^TypeError: undefined is not a function$/,
+
+            // https://st.yandex-team.ru/SERP-78992
+            // ошибка Firefox/iOS 8,9,10 https://bugzilla.mozilla.org/show_bug.cgi?id=1394296
+            '13': /__firefox__\.(?:favicons|metadata|reader|searchQueryForField|searchLoginField)/
+        },
+        stack: {
+            // Ошибки из расширений браузеров
+            '0': /(?:moz|chrome)-extension:\/\//,
+            // ошибки AdGuard в тех браузерах, которые показывают файлы расширений в стеке
+            '1': /adguard.*\.user\.js/i
+        }
+    };
+
+    /**
+     * Проверяет, что ошибка из внешнего источника.
+     *
+     * @param {string} url
+     * @param {string} message
+     * @param {string} stack
+     * @returns {Boolean}
+     */
+    function isExternalError(url, message, stack) {
+        var customFilters = rum._errorSettings.filters || {};
+
+        var currErrorPlaces = {
+            url: (url || '') + '',
+            message: (message || '') + '',
+            stack: (stack || '') + ''
+        };
+
+        var commonFiltersStrs = collectExternalErrorInner(currErrorPlaces, filters);
+        var customFiltersStrs = collectExternalErrorInner(currErrorPlaces, customFilters);
+
+        return {
+            common: commonFiltersStrs,
+            custom: customFiltersStrs,
+            hasExternal: !!(commonFiltersStrs || customFiltersStrs)
+        };
+    }
+
+    /**
+     * Проверяет, сматчилась ли ошибка и дополняет результат
+     *
+     * @param {string} str
+     * @param {Object} errorItems
+     * @return {String} result
+     */
+    function checkExternalErrorInner(str, errorItems) {
+        if (!str || !errorItems) {
+            return;
+        }
+
+        var result = [];
+
+        for (var errorId in errorItems) {
+            if (errorItems.hasOwnProperty(errorId)) {
+                var regexp = errorItems[errorId];
+                if (typeof regexp === 'string') {
+                    regexp = new RegExp(regexp);
+                }
+
+                if (regexp instanceof RegExp && regexp.test(str)) {
+                    result.push(errorId);
+                }
+            }
+        }
+
+        return result.join('_');
+    }
+
+    /**
+     * Собирает информацию об ошибках
+     *
+     * @param {Object} currErrorPlaces
+     * @param {Object} errorItems
+     * @return {String} filtersStrs
+     */
+    function collectExternalErrorInner(currErrorPlaces, errorItems) {
+        var filtersStrs = [];
+        var strs;
+
+        for (var errorPlace in filters) {
+            if (filters.hasOwnProperty(errorPlace)) {
+                strs = checkExternalErrorInner(currErrorPlaces[errorPlace], errorItems[errorPlace]);
+
+                if (strs) {
+                    filtersStrs.push(errorPlace + '~' +  strs);
+                }
+            }
+        }
+
+        return filtersStrs.join(';');
+    }
+
+    rum._isExternalError = isExternalError;
+})(Ya.Rum);
+(function () {
+'use strict';
+
+// copy-paste and freeze from https://github.yandex-team.ru/RUM/rum-counter/blob/master/src/bundle/send.js
+(function(rum) {
+    /**
+     * @file
+     * Отправка запроса со счетчиками
+     */
+    var MAX_BATCH_COUNTERS = 42; // определено в Кликдемоне
+    var COUNTERS_BATCH_TIMEOUT = 15; // интервал в миллисекундах, в течение которого счётчики склеиваются
+
+    rum.countersBatchData = [];
+    rum.counterTimerId;
+
+    /**
+     * Отправка счётчика. Основной транспорт - sendBeacon, запасной - XMLHttpRequest. Быстро поступающие одиночные события
+     * накапливаются и отправляются пачками по MAX_BATCH_COUNTERS штук.
+     *
+     * Количество и порядок параметров соответствует счётчику СЕРПа
+     * window.wbt = function(link, path, vars, clck, tree, sts, counterParams)
+     *
+     * @param {*} link - не используется
+     * @param {String} path
+     * @param {String} vars
+     * @param {*} clck - не используется
+     * @param {*} tree - не используется
+     * @param {*} sts - не используется
+     * @param {Array} counterParams
+     */
+    rum.send = function(link, path, vars, clck, tree, sts, counterParams) {
+        clearTimeout(rum.counterTimerId);
+
+        var counterSections = getCounterSections(link, path, vars, tree, sts, counterParams);
+        // reqid добавляется на случай попадания в батч счётчиков из разных запросов –
+        // например, после аякса
+        rum.countersBatchData.push('/reqid=' + rum.getSetting('reqid') + counterSections.join(''));
+
+        if (rum.countersBatchData.length < MAX_BATCH_COUNTERS) {
+            rum.counterTimerId = setTimeout(sendBatchRequest, COUNTERS_BATCH_TIMEOUT);
+        } else {
+            sendBatchRequest();
+        }
+    };
+
+    function sendBatchRequest() {
+        var clck = rum.getSetting('clck'),
+            data = rum.countersBatchData.join('\r\n');
+
+        rum.countersBatchData = [];
+        rum.counterTimerId = null;
+
+        if (!clck) {
+            return;
+        }
+
+        var sendBeaconPostAvailable = navigator.sendBeacon && rum.getSetting('beacon'),
+            sendBeaconResult = sendBeaconPostAvailable && navigator.sendBeacon(clck, data);
+
+        if (!sendBeaconResult) {
+            // Использование XMLHttpRequest делает невозможным отправку ошибок из
+            // worker-скриптов. И вообще, пора уже везде использовать fetch,
+            // если это возможно.
+            if (typeof self !== 'undefined' && self.fetch) {
+                fetch(clck, {
+                    method: 'POST',
+                    body: data
+                });
+            } else {
+                var xhr = new XMLHttpRequest();
+                xhr.open('POST', clck);
+                xhr.send(data);
+            }
+        }
+    }
+
+    // Используются только параметры path vars counterParams
+    function getCounterSections(link, path, vars, tree, sts, counterParams) {
+        var slots = rum.getSetting('slots');
+        return [
+            counterParams ? '/' + counterParams.join('/') : '',
+            '/path=' + path,
+            slots ? '/slots=' + slots.join(';') : '',
+            vars ? '/vars=' + vars : '',
+            '/cts=' + new Date().getTime(),
+            '/*'
+        ];
+    }
+})(Ya.Rum);
+
+}());
+(function () {
+'use strict';
+
+(function(rum) {
+    rum.logError = function (params, error) {
+        params = params || {};
+
+        if (typeof error === 'string' || typeof error === 'undefined') {
+            error = new Error(error);
+            error.justCreated = true;
+        }
+
+        var message = params.message || '',
+            err = rum._baseNormalizeError(error);
+
+        if (err.message) {
+            if (message) {
+                message += '; ';
+            }
+
+            message += err.message;
+        }
+
+        err.message = message || 'Empty error';
+
+        var fields = ['service', 'source', 'type', 'block', 'additional', 'level', 'page', 'method', 'sourceMethod', 'coordinates_gp'];
+
+        for (var i = 0; i < fields.length; i++) {
+            var name = fields[i];
+
+            if (params[name]) {
+                err[name] = params[name];
+            } else if (error && error[name]) {
+                err[name] = error[name];
+            }
+        }
+
+        rum._handleError(err, true);
+    };
+})(Ya.Rum);
+
+}());
+(function () {
+'use strict';
+
+(function(rum) {
+    rum.logAjaxError = function (params, xhr, name, error) {
+        params.type = 'network';
+        params.additional = params.additional || {};
+
+        if (name === 'timeout') {
+            params.additional.timeout = 1;
+        } else if (xhr.status) {
+            params.additional.status = xhr.status;
+        }
+
+        rum.logError(params, error);
+    };
+})(Ya.Rum);
+
+}());
+
+              Ya.Rum.initErrors({
+                  project: 'lyceum',
+                  env: 'production',
+                  platform: 'desktop',
+                  version: 'hed_at_6b1fbd0f-6b1fbd0fcb',
+                  unhandledRejection: true
+              });</script><link rel="stylesheet" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/vendors.css"><link rel="stylesheet" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/client.css"><style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Menu_Button .MathJax_Hover_Arrow {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 4px; -webkit-border-radius: 4px; -moz-border-radius: 4px; -khtml-border-radius: 4px; font-family: 'Courier New',Courier; font-size: 9px; color: #F0F0F0}
+.MathJax_Menu_Button .MathJax_Hover_Arrow span {display: block; background-color: #AAA; border: 1px solid; border-radius: 3px; line-height: 0; padding: 4px}
+.MathJax_Hover_Arrow:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_Hover_Arrow:hover span {background-color: #CCC!important}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_About.MathJax_MousePost {outline: none}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; padding-top: .25em; color: #666666; font-size: .75em}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_MenuDisabled:focus, .MathJax_MenuLabel:focus {background-color: #E8E8E8}
+.MathJax_ContextMenu:focus {outline: none}
+.MathJax_ContextMenu .MathJax_MenuItem:focus {outline: none}
+#MathJax_AboutClose {top: .2em; right: .2em}
+.MathJax_Menu .MathJax_MenuClose {top: -10px; left: -10px}
+.MathJax_MenuClose {position: absolute; cursor: pointer; display: inline-block; border: 2px solid #AAA; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; font-family: 'Courier New',Courier; font-size: 24px; color: #F0F0F0}
+.MathJax_MenuClose span {display: block; background-color: #AAA; border: 1.5px solid; border-radius: 18px; -webkit-border-radius: 18px; -moz-border-radius: 18px; -khtml-border-radius: 18px; line-height: 0; padding: 8px 0 6px}
+.MathJax_MenuClose:hover {color: white!important; border: 2px solid #CCC!important}
+.MathJax_MenuClose:hover span {background-color: #CCC!important}
+.MathJax_MenuClose:hover:focus {outline: none}
+</style><style type="text/css">.MathJax_Preview .MJXf-math {color: inherit!important}
+</style><style type="text/css">.MJX_Assistive_MathML {position: absolute!important; top: 0; left: 0; clip: rect(1px, 1px, 1px, 1px); padding: 1px 0 0 0!important; border: 0!important; height: 1px!important; width: 1px!important; overflow: hidden!important; display: block!important; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none}
+.MJX_Assistive_MathML.MJX_Assistive_MathML_Block {width: 100%!important}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; -webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><link rel="apple-touch-icon" sizes="57x57" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-57x57.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="60x60" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-60x60.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="72x72" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-72x72.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="76x76" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-76x76.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="114x114" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-114x114.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="120x120" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-120x120.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="144x144" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-144x144.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="152x152" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-152x152.png" data-react-helmet="true"><link rel="apple-touch-icon" sizes="180x180" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/apple-icon-180x180.png" data-react-helmet="true"><link rel="icon" type="image/png" size="192x192" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/android-icon-192x192.png" data-react-helmet="true"><link rel="icon" type="image/png" size="32x32" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/favicon-32x32.png" data-react-helmet="true"><link rel="icon" type="image/png" size="16x16" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/favicon-16x16.png" data-react-helmet="true"><link rel="icon" type="image/png" size="96x96" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/favicon-96x96.png" data-react-helmet="true"><link rel="manifest" href="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/manifest.json" data-react-helmet="true"><meta name="msapplication-TileColor" content="#ffffff" data-react-helmet="true"><meta name="msapplication-TileImage" content="https://yastatic.net/s3/distribution/promo/react-yandex-favicon/vv0.1.1/favicons/ru/ms-icon-144x144.png" data-react-helmet="true"><meta name="theme-color" content="#ffffff" data-react-helmet="true"><style type="text/css">.MJXp-script {font-size: .8em}
+.MJXp-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXp-bold {font-weight: bold}
+.MJXp-italic {font-style: italic}
+.MJXp-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXp-largeop {font-size: 150%}
+.MJXp-largeop.MJXp-int {vertical-align: -.2em}
+.MJXp-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXp-display {display: block; text-align: center; margin: 1em 0}
+.MJXp-math span {display: inline-block}
+.MJXp-box {display: block!important; text-align: center}
+.MJXp-box:after {content: " "}
+.MJXp-rule {display: block!important; margin-top: .1em}
+.MJXp-char {display: block!important}
+.MJXp-mo {margin: 0 .15em}
+.MJXp-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXp-denom {display: inline-table!important; width: 100%}
+.MJXp-denom > * {display: table-row!important}
+.MJXp-surd {vertical-align: top}
+.MJXp-surd > * {display: block!important}
+.MJXp-script-box > *  {display: table!important; height: 50%}
+.MJXp-script-box > * > * {display: table-cell!important; vertical-align: top}
+.MJXp-script-box > *:last-child > * {vertical-align: bottom}
+.MJXp-script-box > * > * > * {display: block!important}
+.MJXp-mphantom {visibility: hidden}
+.MJXp-munderover {display: inline-table!important}
+.MJXp-over {display: inline-block!important; text-align: center}
+.MJXp-over > * {display: block!important}
+.MJXp-munderover > * {display: table-row!important}
+.MJXp-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXp-mtable > * {display: inline-table!important; vertical-align: middle}
+.MJXp-mtr {display: table-row!important}
+.MJXp-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXp-mtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-mlabeledtr {display: table-row!important}
+.MJXp-mlabeledtr > .MJXp-mtd:first-child {padding-left: 0}
+.MJXp-mlabeledtr:first-child > .MJXp-mtd {padding-top: 0}
+.MJXp-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXp-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXp-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXp-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXp-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXp-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXp-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXp-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXp-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXp-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXp-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+</style><link rel="stylesheet" type="text/css" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/code-mirror-editor.css"><script charset="utf-8" src="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/code-mirror-editor.bundle.js"></script><script charset="utf-8" src="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/6.bundle.js"></script><link rel="stylesheet" type="text/css" href="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/material.css"><script charset="utf-8" src="https://yastatic.net/s3/lyceum/frontend/static/hed_at_6b1fbd0f-6b1fbd0fcb/desktop-ru/material.bundle.js"></script><meta name="title" content="Материал «Учебник | Условный оператор» — Условный оператор — Основы программирования на языке Python | Д21" data-rh="true"></head><body class="Theme Theme_color_platform-blue Theme_size_platform Theme_capacity_platform Theme_space_platform Theme_cosmetic_platform pointerfocus" style="overflow: visible;"><div id="MathJax_Message" style="display: none;"></div><script src="https://yastatic.net/browser-updater/v1/script.js"></script><script nonce="">var browserUpdater = new ya.browserUpdater.init({"lang":"ru","browsers":{"chromium":"61","iron":"Infinity","flock":"Infinity","palemoon":"Infinity","camino":"Infinity","safari":"10","yandexinternet":"Infinity","fx":"59","ie":"11","opera":"49","chrome":"61","maxthon":"Infinity","seamonkey":"Infinity","yabrowser":"17.11"}});</script><script src="https://browser-updater.yandex.net?browserUpdate=%7B%22chromium%22%3A%2261%22%2C%22iron%22%3A%22Infinity%22%2C%22flock%22%3A%22Infinity%22%2C%22palemoon%22%3A%22Infinity%22%2C%22camino%22%3A%22Infinity%22%2C%22safari%22%3A%2210%22%2C%22yandexinternet%22%3A%22Infinity%22%2C%22fx%22%3A%2259%22%2C%22ie%22%3A%2211%22%2C%22opera%22%3A%2249%22%2C%22chrome%22%3A%2261%22%2C%22maxthon%22%3A%22Infinity%22%2C%22seamonkey%22%3A%22Infinity%22%2C%22yabrowser%22%3A%2217.11%22%7D&amp;jsonp=yaBrowserUpdaterJSONPCallback"></script><script nonce="">new MutationObserver(function(){var t=document.querySelector(".ya-chat-widget");if(t){var e=document.querySelector(".footer"),o=e.clientHeight;function n(){var n=document.body.offsetHeight-(window.innerHeight+window.scrollY),i=o-n,r=e.getBoundingClientRect();r.top<window.innerHeight&&r.bottom>=0?t.style.bottom=(i+20).toString()+"px":t.style.bottom="20px"}n(),document.addEventListener("scroll",n),this.disconnect()}}).observe(document.body,{childList:!0,subtree:!1});</script><div id="root"><div data-version="hed_at_6b1fbd0f-6b1fbd0fcb" class="desktop"><div><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/tag.js"></script></div><div class="desktop__content"><header class="header"><div class="header__top"><div class="header__left"><div class="logo logo_lang_ru" style="height: 28px; width: 330px; background-image: url(&quot;https://yastatic.net/s3/lyceum/courses/logos/21e367f6-7d66-4607-8617-8e131914e7db/a93b1194fb0dd6e70c8a2bd81be4f653.svg&quot;);"><a class="logo__link logo__link_type_service" title="Лицей" href="/"></a></div></div><div class="header__right"><nav class="header__user-nav"><div class="header__user-links"><a rel="noopener noreferrer" target="_blank" class="header__link" href="https://forms.yandex.ru/surveys/11819452.adfc22b090b3d2a9d847022a876552c1f7a12267/">Задать вопрос</a></div><div class="header__notifications header__notifications_mode_system"><button type="button" class="header__notification-button header__notification-button_active"><span data-lego="react" class="icon icon_type_signal-outline icon_size_l"></span><span data-lego="react" title="1685" role="alert" aria-live="assertive" aria-atomic="true" class="ticker ticker_state_normal"><span data-lego="react" class="ticker__count"><div data-lego="react" class="ticker__text a11y-hidden">Уведомлений</div><span data-lego="react" title="1685" class="ticker__value ticker__plain">1685</span></span></span></button></div><div class="header__user-menu"><div><style nonce="">@-webkit-keyframes light-popup_theme_normal_bottom_visible{0%{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes light-popup_theme_normal_bottom_visible{0%{opacity:0;-webkit-transform:translateY(10px);transform:translateY(10px)}to{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}}.legouser__add-account.user-account{color:#333}.legouser{display:inline-block}.legouser,.legouser__footer-link{position:relative}.legouser__accounts-container .legouser__account:hover,.legouser__add-account:hover,.legouser__menu-item:hover,.utilityfocus .legouser__menu-item:focus{background-color:#ededed}.legouser__footer-link:hover{opacity:.6}.legouser__footer-link::before{position:absolute;z-index:-1;top:0;right:0;bottom:0;left:0;content:''}.legouser:not(.legouser_big-plus) .user-account.legouser__current-account .user-pic_has-plus_yes .user-pic__image{width:34px;height:34px}.legouser:not(.legouser_big-plus) .user-account.legouser__current-account .user-pic_has-plus_yes{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:4px 0 0 4px}.legouser:not(.legouser_big-plus) .user-account.legouser__current-account .user-pic_has-plus_yes::after{width:42px;height:42px;margin:-21px 0 0 -21px}.utilityfocus .legouser:not(.legouser_big-plus) .user-account.legouser__current-account:focus .user-pic_has-plus_yes::before{top:3px;right:3px;bottom:3px;left:3px}.link{text-decoration:none;outline:0;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer}.link_theme_pseudo{color:#04b}.link_theme_pseudo:hover{color:#c00}.a11y-hidden{position:absolute;left:-32767px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.user-account{position:relative;z-index:0;display:inline-block;text-decoration:none;color:#000;outline:0}.user-account.user-account_template_yes,.legouser__accounts-container .user-pic_has-plus_yes:after,.legouser__menu .user-account_template_yes[class]{display:none}.user-account{-webkit-transition:color .15s ease-out;transition:color .15s ease-out}a.user-account{cursor:pointer}.user-account_has-accent-letter_yes .user-account__name::first-letter{color:red}.user-pic{position:relative;display:inline-block;width:42px;height:42px}.user-pic_has-plus_yes:after{position:absolute;z-index:0;top:50%;left:50%;width:52px;height:52px;margin:-26px 0 0 -26px;content:'';background:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/VDrTYsF1.svg) center center no-repeat;background-size:contain}.user-pic__image{width:100%;height:100%;border-radius:100px;background-color:#fff;-o-object-fit:cover;object-fit:cover}.ticker{display:inline-block;font:700 13px/15px 'Helvetica Neue',Helvetica,Arial,sans-serif;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-transition:opacity .2s;transition:opacity .2s}.light-popup{position:absolute;top:100%;visibility:hidden;width:100%;margin:-9999px 0 0 -9999px}.light-popup_visible_yes{visibility:visible;margin:0}.light-popup{display:none}.light-popup_visible_yes{display:block}.menu{display:inline-block;overflow-x:hidden;overflow-y:auto;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent}.menu__item{white-space:nowrap}.menu_type_navigation{padding:0}.menu_type_navigation,.menu_type_navigation .menu__group{margin:0;list-style:none}.menu:after,.menu:before{display:block;content:''}.legouser__popup.light-popup:before{position:absolute;z-index:-1;top:0;right:0;bottom:0;left:0;content:''}.legouser__menu-counter{padding-left:.6em;font-weight:700}.icon{display:inline-block;background-repeat:no-repeat;background-position:50%}.icon:after{visibility:hidden;content:'\00A0'}.icon_has-glyph_yes{position:relative}.icon_has-glyph_yes svg,.user-pic__camera:after{position:absolute;top:50%;left:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.icon_has-glyph_yes svg,.icon_has-glyph_yes svg *{fill:currentColor}.user-account__pic{position:relative;vertical-align:middle}.utilityfocus .user-account_focused_yes .user-account__pic.user-pic_has-plus_yes:after{top:50%;left:50%}.user-account__pic~.user-account__name{margin-left:10px}.user-pic__camera{position:absolute;z-index:1;top:0;overflow:hidden;width:100%;height:100%;border-radius:50%}.user-pic__link{position:absolute;bottom:0;left:0;width:100%;outline:0;background-color:rgba(0,0,0,.5);height:50%;-webkit-transition:height .3s ease-out;transition:height .3s ease-out}.user-pic__camera:after{width:24px;height:24px;content:'';pointer-events:none;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/2Vc7PmsX.svg);-webkit-transition:-webkit-transform .3s ease-out;transition:transform .3s ease-out;transition:transform .3s ease-out,-webkit-transform .3s ease-out;-webkit-transform:translate(-50%,-10%) scale(.66);transform:translate(-50%,-10%) scale(.66);will-change:transform}.user-pic:hover .user-pic__camera:after{top:50%;-webkit-transform:translate(-50%,-50%) scale(1);transform:translate(-50%,-50%) scale(1)}.user-pic:hover .user-pic__link{height:100%}.user-account__name{display:inline-block;font-size:15px;vertical-align:middle;white-space:nowrap}.user-account__ticker{position:absolute;right:100%;margin-right:-41px}.user-account__ticker.user-account__ticker .ticker__count{font-weight:700}.ticker_state_empty{visibility:hidden;opacity:0}.ticker .ticker__count{display:inline-block;text-decoration:none;color:#fff;border-radius:15px;background:red;-webkit-font-smoothing:subpixel-antialiased}.ticker__value{display:inline-block;padding:0 4px}.ticker__plain .ticker__value{cursor:default}.legouser__popup.light-popup{top:100%;right:-2px;width:auto}.legouser__popup.light-popup.light-popup_visible_yes{z-index:10;margin-top:-46px;border:1px solid rgba(0,0,0,.06);background:#fff}.legouser__popup.light-popup:before{border-radius:.1px;-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.4);box-shadow:0 10px 20px -5px rgba(0,0,0,.4)}.light-popup_animated_yes{visibility:hidden;-webkit-animation-duration:.1s;animation-duration:.1s;-webkit-animation-timing-function:ease-out;animation-timing-function:ease-out;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards}.light-popup_animated_yes.light-popup_visible_yes{visibility:visible;margin-right:0;margin-left:0;-webkit-animation-name:light-popup_theme_normal_bottom_visible;animation-name:light-popup_theme_normal_bottom_visible}.legouser__menu{overflow-y:auto;width:280px;font-size:13px;line-height:27px;text-align:left}.legouser__menu.legouser__menu{display:block}.legouser__menu .menu__group{padding:4px 0 16px;border-bottom:1px solid rgba(0,0,0,.1)}.legouser__menu .menu__item_type_link{display:block;padding:0 19px;cursor:pointer;text-decoration:none;text-indent:56px;color:#000;outline:0}.legouser__menu-footer{background:#f3f1ed;-webkit-transform:translateZ(0);transform:translateZ(0)}.legouser__menu-header .user-account{padding:15px 0 0 19px}.legouser__menu-header .user-account__name{font-size:13px;font-weight:700}.legouser__menu .user-account{display:block;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text}.legouser__menu .user-account__name,.legouser__menu .user-account__subname{overflow:hidden;max-width:185px;text-overflow:ellipsis}.legouser__menu .user-account__subname::before{content:" "}.legouser__menu .user-account__pic{display:inline-block;width:42px;height:42px}.legouser__menu .user-account__ticker{margin-right:-61px}.legouser__menu .user-account__pic~.user-account__name{margin-left:14px}.legouser__menu-footer .legouser__footer-link{display:inline-block;width:50%;height:40px;line-height:40px;text-align:center;color:#333}.legouser__multi-auth .user-account{padding:5px 13px 5px 19px;cursor:pointer}.legouser__accounts{padding:10px 0}.legouser__accounts-container .user-account .user-account__name{font-size:13px;font-weight:700}.legouser__accounts-container .menu__item{margin-bottom:1px}.legouser__add-account .user-account__name{font-size:13px;line-height:16px;white-space:normal}.legouser__add-account .user-account__pic:before{position:absolute;top:-1px;right:-1px;bottom:-1px;left:-1px;content:'';opacity:.6;border:1px solid #b3b3b3;border-radius:50px;background:#ccc url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/44AbkRhw.svg) center no-repeat}.legouser__popup[class][class]{z-index:100;top:4px;right:13px;margin-top:0}.legouser__menu .legouser__menu-item.legouser__menu-item_hidden_yes,.legouser__menu-counter_state_empty{display:none}.legouser__menu-item_action_plus{position:relative}.legouser__menu .legouser__menu-item.legouser__menu-item_action_plus{color:#2d47e8}.legouser__menu .legouser__menu-item_plus-icon_yes[class]{padding-left:63px;color:#000}.legouser__menu .legouser__menu-item_plus-icon_yes.legouser__menu-item_lang_ru{padding-left:68px}.legouser__menu .legouser__menu-item.legouser__menu-item_action_plus{margin-bottom:0}.legouser__menu .legouser__menu-item.legouser__menu-item_action_plus:not(:empty){margin-bottom:12px}.legouser__plus-badge{position:absolute;top:6px;left:75px;width:39px;height:16px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/3jtNDGSH.svg);background-repeat:no-repeat;background-position:center left;background-size:contain}.legouser__plus-badge_lang_ru{width:44px;background-image:url(//yastatic.net/s3/frontend/yandex-lego/serp-header/_/Csju7Ej4.svg)}.icon_glyph_x-sign.icon_size_xs,.icon_glyph_x-sign.icon_size_xs svg{width:16px;height:16px}.icon_glyph_x-sign.icon_size_s,.icon_glyph_x-sign.icon_size_s svg{width:20px;height:20px}.icon_glyph_x-sign.icon_size_m,.icon_glyph_x-sign.icon_size_m svg{width:24px;height:24px}.user-account__subname{font-weight:500;color:#999}.user-account_has-subname_yes .user-account__name{font-size:13px;font-weight:700}.user-account_has-subname_yes .user-account__subname{display:block;font-weight:500;color:#999}.user-account_has-subname_yes .user-account__pic~.user-account__name{margin-left:14px;line-height:20px}</style><div class="legouser legouser_fetch-accounts_yes legouser_hidden_yes i-bem" data-bem="{&quot;legouser&quot;:{&quot;_tld&quot;:&quot;ru&quot;,&quot;_accountsUrl&quot;:&quot;https://api.passport.yandex.ru/all_accounts&quot;,&quot;_uid&quot;:&quot;1395177699&quot;,&quot;_retpath&quot;:&quot;https://lyceum.yandex.ru/&quot;,&quot;_yu&quot;:&quot;3046094241650177351&quot;,&quot;_passportHost&quot;:&quot;https://passport.yandex.ru&quot;,&quot;_avatarHost&quot;:&quot;https://avatars.mds.yandex.net&quot;,&quot;accountsUrl&quot;:&quot;https://api.passport.yandex.ru/all_accounts&quot;,&quot;_noCounter&quot;:&quot;1&quot;,&quot;_isInternal&quot;:&quot;&quot;,&quot;_accounts&quot;:&quot;&quot;,&quot;_moveTo&quot;:null,&quot;maxLength&quot;:28}}"><a class="user-account user-account_has-ticker_yes user-account_has-accent-letter_yes legouser__current-account i-bem" data-bem="{&quot;user-account&quot;:{}}" tabindex="0" href="https://passport.yandex.ru?" target="_parent"><div class="user-pic user-pic_has-plus_ user-account__pic"><img class="user-pic__image" src="https://avatars.mds.yandex.net/get-yapic/69015/mkPaxigfHqFKbyMKwtCBma6k-1/islands-middle" srcset="https://avatars.mds.yandex.net/get-yapic/69015/mkPaxigfHqFKbyMKwtCBma6k-1/islands-middle 1x, https://avatars.mds.yandex.net/get-yapic/69015/mkPaxigfHqFKbyMKwtCBma6k-1/islands-retina-middle 2x"></div><span class="user-account__name">Ильин Кирилл</span><span class="ticker ticker_state_empty user-account__ticker i-bem" data-bem="{&quot;ticker&quot;:{&quot;count&quot;:0,&quot;maxCount&quot;:99}}" role="alert" aria-live="assertive" aria-atomic="true"><span class="ticker__count ticker__plain"><span class="ticker__text a11y-hidden">Уведомлений</span><span class="ticker__value" title="0">0</span></span></span></a><a class="link link_theme_pseudo legouser__a11y-exit a11y-hidden i-bem" data-bem="{&quot;link&quot;:{}}" accesskey="x" tabindex="-1" href="https://passport.yandex.ru/passport?mode=embeddedauth&amp;action=logout&amp;yu=3046094241650177351&amp;uid=1395177699&amp;origin=&amp;retpath=https%3A%2F%2Flyceum.yandex.ru%2F&amp;">Выйти из аккаунта</a><div class="light-popup light-popup_autoclosable_yes light-popup_animated_yes legouser__popup i-bem" data-bem="{&quot;light-popup&quot;:{&quot;moved&quot;:true}}"><ul class="menu menu_type_navigation menu_view_classic legouser__menu i-bem" data-bem="{&quot;menu&quot;:{}}"><div class="legouser__menu-header"><div class="user-account user-account_has-subname_yes legouser__account i-bem" data-bem="{&quot;user-account&quot;:{}}" tabindex="0"><div class="user-pic user-pic_has-plus_ user-pic_has-camera_yes user-account__pic"><img class="user-pic__image" src="https://avatars.mds.yandex.net/get-yapic/69015/mkPaxigfHqFKbyMKwtCBma6k-1/islands-middle" srcset="https://avatars.mds.yandex.net/get-yapic/69015/mkPaxigfHqFKbyMKwtCBma6k-1/islands-middle 1x, https://avatars.mds.yandex.net/get-yapic/69015/mkPaxigfHqFKbyMKwtCBma6k-1/islands-retina-middle 2x"></div><span class="user-account__name">Ильин Кирилл<span class="user-account__subname"></span></span></div></div><ul class="menu__group" role="group"><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item_action_mail" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="https://mail.yandex.ru" tabindex="0"><span class="menu__text">Почта<span class="legouser__menu-counter legouser__menu-counter_state_empty" role="alert">0</span></span></a></li><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item_action_mail-compose" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="https://mail.yandex.ru/compose" tabindex="0"><span class="menu__text">Написать письмо</span></a></li><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item legouser__menu-item_action_undefined" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="/profile/151381"><span class="menu__text">Профиль LMS</span></a></li><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item_action_disk" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="https://disk.yandex.ru?source=main-loginmenu" tabindex="0"><span class="menu__text">Мой диск</span></a></li><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item_action_plus legouser__menu-item legouser__menu-item_lang_ru legouser__menu-item_plus-icon_ legouser__menu-item legouser__menu-item_lang_ru legouser__menu-item_plus-icon_" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="https://plus.yandex.ru" aria-label="" aria-hidden="true" tabindex="-1"></a></li><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item_action_passport" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="https://passport.yandex.ru?" tabindex="0"><span class="menu__text">Управление аккаунтом</span></a></li><li class="menu__list-item"><a class="menu__item menu__item_type_link legouser__menu-item legouser__menu-item_action_exit" data-bem="{&quot;menu__item&quot;:{}}" role="link" href="https://passport.yandex.ru/passport?mode=embeddedauth&amp;action=logout&amp;yu=3046094241650177351&amp;uid=1395177699&amp;origin=&amp;retpath=https%3A%2F%2Flyceum.yandex.ru%2F&amp;" aria-label="Выйти из аккаунта" tabindex="0"><span class="menu__text">Выйти</span></a></li></ul><div class="legouser__multi-auth"><div class="legouser__accounts"><div class="legouser__accounts-container"><div class="menu__item" data-bem="{&quot;menu__item&quot;:{}}"><div class="user-account user-account_template_yes legouser__account i-bem" data-bem="{&quot;user-account&quot;:{}}" tabindex="0"><div class="user-pic user-pic_has-plus_ user-account__pic"><img class="user-pic__image"></div><span class="user-account__name"><span class="user-account__name-text"></span><span class="user-account__subname"></span></span></div></div><div class="menu__item"><div class="user-account legouser__account i-bem count-me user-account_has-subname_yes" data-bem="{&quot;legouser__account&quot;:{&quot;uid&quot;:&quot;1631098896&quot;,&quot;pos&quot;:0}}" tabindex="0" data-count="{&quot;name&quot;:&quot;user-menu&quot;,&quot;id&quot;:&quot;switch-user&quot;}"><div class="user-pic user-pic_has-plus_ user-account__pic"><img class="user-pic__image" src="https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle" srcset="https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle 1x, https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-retina-middle 2x"></div><span class="user-account__name"><span class="user-account__name-text">TestGameMafiozi</span><span class="user-account__subname">TestGameMafiozi@yandex.ru</span></span></div></div><div class="menu__item"><div class="user-account legouser__account i-bem count-me user-account_has-subname_yes" data-bem="{&quot;legouser__account&quot;:{&quot;uid&quot;:&quot;1687939411&quot;,&quot;pos&quot;:1}}" tabindex="0" data-count="{&quot;name&quot;:&quot;user-menu&quot;,&quot;id&quot;:&quot;switch-user&quot;}"><div class="user-pic user-pic_has-plus_ user-account__pic"><img class="user-pic__image" src="https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle" srcset="https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-middle 1x, https://avatars.mds.yandex.net/get-yapic/0/0-0/islands-retina-middle 2x"></div><span class="user-account__name"><span class="user-account__name-text">testgamemafiozi@gmail.com</span><span class="user-account__subname">testgamemafiozi@gmail.com</span></span></div></div></div><li class="menu__list-item"><div class="menu__item" data-bem="{&quot;menu__item&quot;:{}}"><a class="user-account legouser__add-account i-bem" data-bem="{&quot;user-account&quot;:{}}" tabindex="0" href="https://passport.yandex.ru/auth?mode=add-user&amp;retpath=https%3A%2F%2Flyceum.yandex.ru%2F&amp;" target="_parent"><div class="user-account__pic"></div><span class="user-account__name">Добавить аккаунт</span></a></div></li></div></div><div class="legouser__menu-footer"><a class="link link_theme_ghost legouser__footer-link i-bem" data-bem="{&quot;link&quot;:{}}" target="_parent" tabindex="0" href="https://yandex.ru/tune">Настройки</a><a class="link link_theme_ghost legouser__footer-link i-bem" data-bem="{&quot;link&quot;:{}}" target="_parent" tabindex="0" href="https://yandex.ru/support/lyceum-students/students-concepts/index.html?lang=ru">Справка</a></div></ul></div></div></div></div></nav><button type="button" class="header__menu-toggle"><span data-lego="react" class="icon icon_type_menu icon_size_l"></span></button></div></div><div class="header__course-block"><div class="header__main-nav"><div class="main-nav"><div class="main-nav__current-course"><span class="main-nav__course-name" title="Основы программирования на языке Python | Д21">Основы программирования на языке Python | Д21</span></div><button type="button" class="Button2 Button2_tone_default Button2_size_xs Button2_theme_pseudo Button2_view_default main-nav__button" autocomplete="off"><span data-lego="react" class="icon icon_type_arrow-dropdown icon_size_xs main-nav__icon Button2-Icon"></span></button></div></div></div><div class="header__bottom"><div class="header__course-nav"><nav class="course-nav course-nav_theme_dark"><ul class="course-nav__items"><li><a class="course-nav__link" href="/courses/538/groups/4655">Обзор курса</a></li><li><a class="course-nav__link" href="/courses/538/groups/4655/tasks">Задачи</a></li></ul></nav></div><div class="header__test-timer"></div></div></header><div class="course-banners"></div><div class="lesson-material"><div class="layout"><div class="layout__wrapper layout__wrapper_type_narrow layout__wrapper_fixed"><main class="layout__main"><div class="lesson-material__wrapper"><a class="nav-tab nav-tab_back nav-tab_view_button" href="/courses/538/groups/4655/lessons/2736"><span data-lego="react" class="icon icon_type_arrow-short icon_direction_left icon_size_s nav-tab__arrow-icon"></span><span class="nav-tab__inner">Урок Условия</span></a><section class="lesson-material__content"><article class="material"><h1>Условный оператор</h1>
+<section class="material__plan"><nav>
+<ol>
+<li><a class="material__link" href="#1">Повторение</a></li>
+<li><a class="material__link" href="#2">Условный оператор</a></li>
+<li><a class="material__link" href="#3">Сложное условие. Логические операции</a></li>
+<li><a class="material__link" href="#4">Вложенные условия</a></li>
+<li><a class="material__link" href="#5">Операции над строками</a></li>
+<li><a class="material__link" href="#6">Команда in</a></li>
+</ol>
+</nav></section>
+<section class="material__annotation">
+<h2>Аннотация</h2>
+<p>Во&nbsp;втором уроке мы&nbsp;впервые познакомимся с&nbsp;одной из&nbsp;фундаментально важных тем в&nbsp;программировании&nbsp;— условным оператором. Он&nbsp;позволяет организовать ветвление в&nbsp;вашей программе (выполнение одной ветки кода в&nbsp;зависимости от&nbsp;условия).</p>
+</section>
+<section class="material__chapter">
+<h2 id="1">Повторение</h2>
+<p>На&nbsp;прошлом уроке мы&nbsp;познакомились с&nbsp;переменными. Переменная имеет имя и&nbsp;значение. Имя переменной может начинаться только с&nbsp;буквы и&nbsp;включать в&nbsp;себя буквы, цифры и&nbsp;символ подчеркивания. Имя переменной должно отражать ее&nbsp;назначение.</p>
+<p>Чтобы задать переменной значение, необходимо после знака равно (оператора присваивания) указать значение переменной.</p>
+<p>Еще значение переменной можно получить из&nbsp;ввода. Для этого используем команду <code>input()</code>. В&nbsp;этом случае значение переменной задает пользователь.</p>
+</section>
+<section class="material__chapter">
+<h2 id="2">Условный оператор</h2>
+<section class="material__note">
+<p>Условный оператор используется, когда некая часть программы должна быть выполнена, только <strong>если верно</strong> какое-либо условие. Для записи условного оператора используются ключевые слова <var>if</var>&nbsp;и&nbsp;<var>else</var> («если», «иначе»), двоеточие и&nbsp; <strong>отступ в&nbsp;четыре пробела</strong>.</p>
+</section>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">if</span> условие<span class="token punctuation">:</span>
+    Действия<span class="token punctuation">,</span> если условие верно
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    Действия<span class="token punctuation">,</span> если условие неверно
+</code></pre>
+<section class="material__note">
+<p class="material__note-heading"><strong>PEP&nbsp;8</strong></p>
+<p>Отступ в&nbsp;четыре пробела принят в&nbsp;сообществе Python (PEP&nbsp;8). При этом программа может работать и&nbsp;при других вариантах, но&nbsp;читать ее&nbsp;будет неудобно. Пробелы&nbsp;— самый предпочтительный метод отступов.</p>
+<p>Табуляция должна использоваться только для поддержки кода, написанного с&nbsp;отступами с&nbsp;помощью табуляции.</p>
+<p>Python 3&nbsp;запрещает смешивание табуляции и&nbsp;пробелов в&nbsp;отступах.</p>
+</section>
+<p>Рассмотрим пример:</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Введите пароль:'</span><span class="token punctuation">)</span>
+password <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> password <span class="token operator">==</span> <span class="token string">'qwerty'</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Доступ открыт.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Ошибка, доступ закрыт!'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Обратите внимание: в&nbsp;начале условного оператора <var>if</var>&nbsp;выполняется сравнение, а&nbsp;не&nbsp;присваивание. Разница вот в&nbsp;чем.</p>
+<section class="material__note">
+<p class="material__note-heading"><strong>Сравнение</strong></p>
+<p>Сравнение&nbsp;— это проверка, которая не&nbsp;меняет значение переменной (в&nbsp;сравнении может вообще не&nbsp;быть переменных), а&nbsp;присваивание&nbsp;— команда, которая меняет значение переменной.</p>
+<p>Для сравнения нужно использовать двойной знак равенства: <code>==</code>.</p>
+<p>Также заметьте, что после <var>else</var> никогда не&nbsp;пишется никакого условия.</p>
+</section>
+<p>Другой пример:</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Представься, о незнакомец!'</span><span class="token punctuation">)</span>
+name <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> name <span class="token operator">==</span> <span class="token string">'Цезарь'</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Аве, Цезарь!'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Приветик.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>В&nbsp;качестве условия можно использовать и&nbsp;другие операции отношения:</p>
+<pre class=" language-python"><code class=" language-python"><span class="token operator">&lt;</span> меньше
+<span class="token operator">&gt;</span> больше
+<span class="token operator">&lt;=</span> меньше или равно
+<span class="token operator">&gt;=</span> больше или равно
+<span class="token operator">==</span> равно
+<span class="token operator">!=</span> не равно
+</code></pre>
+<section class="material__note">
+<p class="material__note-heading"><strong>PEP&nbsp;8</strong></p>
+<p>Все операции отношения оформляются с&nbsp;помощью симметричных пробелов.</p>
+<p><strong>Правильно:</strong></p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">if</span> bird <span class="token operator">==</span> <span class="token string">"Тук-тук"</span><span class="token punctuation">:</span>
+</code></pre>
+<p><strong><span style="text-decoration: line-through;">Неправильно:</span></strong></p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">if</span> bird<span class="token operator">==</span><span class="token string">"Тук-тук"</span><span class="token punctuation">:</span>
+</code></pre>
+</section>
+<p>Объекты любой однородной группы можно сравнивать между собой. Подумайте над тем, как можно сравнивать, например, строки.</p>
+</section>
+<section class="material__chapter">
+<h2 id="3">Сложное условие. Логические операции</h2>
+<p>Иногда в&nbsp;условном операторе нужно задать сложное условие. Для этого можно использовать логические операции <strong>and</strong> («и»), <strong>or</strong>&nbsp;(«или») и&nbsp;<strong>not</strong> («не»).</p>
+<section class="material__note">
+<p>Чтобы задать одновременное выполнение двух условий, используем <var>and</var> («и»), если достаточно выполнения одного из&nbsp;двух вариантов (или обоих сразу)&nbsp;— используем&nbsp;<var>or</var> («или»), а&nbsp;если нужно убрать какой-то вариант&nbsp;— <var>not</var> («не»).</p>
+</section>
+<p>Приоритет выполнения операций:</p>
+<pre><code>1. not
+2. and
+3. or
+</code></pre>
+<p>Если нужно изменить приоритет операций или вы&nbsp;забыли правила, используйте скобки.</p>
+<p>Например, вот так можно проверить, что оба условия выполнены:</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Как называются первая и последняя буквы греческого алфавита?'</span><span class="token punctuation">)</span>
+greek_letter_1 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+greek_letter_2 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> greek_letter_1 <span class="token operator">==</span> <span class="token string">'альфа'</span> <span class="token keyword">and</span> greek_letter_2 <span class="token operator">==</span> <span class="token string">'омега'</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Верно.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Неверно.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Ниже еще несколько примеров.</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Как греки или римляне называли главу своего пантеона - бога грома?'</span><span class="token punctuation">)</span>
+ancient_god <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> ancient_god <span class="token operator">==</span> <span class="token string">'Зевс'</span> <span class="token keyword">or</span> ancient_god <span class="token operator">==</span> <span class="token string">'Юпитер'</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Верно.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Неверно.'</span><span class="token punctuation">)</span>
+</code></pre>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Введите имена двух братьев из античных мифов и легенд.'</span><span class="token punctuation">)</span>
+brother1 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+brother2 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> brother1 <span class="token operator">==</span> <span class="token string">'Ромул'</span> <span class="token keyword">and</span> brother2 <span class="token operator">==</span> <span class="token string">'Рем'</span> <span class="token keyword">or</span> brother1 <span class="token operator">==</span> <span class="token string">'Кастор'</span> <span class="token keyword">and</span> <span class="token punctuation">(</span>brother2 <span class="token operator">==</span> <span class="token string">'Поллукс'</span> <span class="token keyword">or</span> brother2 <span class="token operator">==</span> <span class="token string">'Полидевк'</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Верно.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Неверно.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Обратите внимание: если программу из&nbsp;предыдущего примера вставить в&nbsp;IDE Wing, часть кода условного оператора будет выходить за&nbsp;ограничительную красную черту среды.</p>
+<div class="material__content-positioner"><img class="material__illustration material__screenshot" src="https://yastatic.net/s3/lyceum/content/images/first-year/lesson-2/fy-2-1.png" width="680" height="auto"></div>
+<section class="material__note">
+<p class="material__note-heading"><strong>PEP&nbsp;8</strong></p>
+<p>По&nbsp;стандарту PEP&nbsp;8&nbsp;длина строки должна быть ограничена максимум 79&nbsp;символами.</p>
+<p>Есть несколько способов переноса длинных строк.</p>
+<ul>
+<li>Использование подразумеваемых продолжений Python внутри круглых, квадратных и&nbsp;фигурных скобок: длинные строки могут быть разбиты на&nbsp;несколько строк, заключенных в&nbsp;скобки.</li>
+<li>Использование символа ’\’ (обратный слеш, или бэкслеш) для обозначения места разрыва строки.</li>
+</ul>
+<p>Мы&nbsp;будем использовать первый способ.</p>
+<p>Если после перенесенной строки идет один или несколько вложенных операторов (например, мы&nbsp;переносим строку с&nbsp;условием в&nbsp;операторе&nbsp;<var>if</var>), отступ у&nbsp;перенесенной части должен быть на четыре пробела больше, чем у&nbsp;вложенного оператора.</p>
+<p>Сделайте правильные отступы для перенесенной строки.</p>
+</section>
+<p>Тогда представленный выше программный код может быть записан так:</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Введите имена двух братьев из античных мифов и легенд.'</span><span class="token punctuation">)</span>
+brother1 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+brother2 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> <span class="token punctuation">(</span>brother1 <span class="token operator">==</span> <span class="token string">'Ромул'</span> <span class="token keyword">and</span> brother2 <span class="token operator">==</span> <span class="token string">'Рем'</span> <span class="token keyword">or</span> brother1 <span class="token operator">==</span> <span class="token string">'Кастор'</span>
+        <span class="token keyword">and</span> <span class="token punctuation">(</span>brother2 <span class="token operator">==</span> <span class="token string">'Поллукс'</span> <span class="token keyword">or</span> brother2 <span class="token operator">==</span> <span class="token string">'Полидевк'</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Верно.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Неверно.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Рассмотрим еще несколько примеров.</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Введите любые два слова, но это не должны быть "белый" и "медведь" разом.'</span><span class="token punctuation">)</span>
+word1 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+word2 <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> <span class="token keyword">not</span> <span class="token punctuation">(</span>word1 <span class="token operator">==</span> <span class="token string">'белый'</span> <span class="token keyword">and</span> word2 <span class="token operator">==</span> <span class="token string">'медведь'</span><span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Верно.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Неверно.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>А&nbsp;теперь попробуйте решить задачи: «Елочка, гори», «Елочка-2», «Елочка-3».</p>
+</section>
+<section class="material__chapter">
+<h2 id="4">Вложенные условия</h2>
+<section class="material__note">
+<p class="material__note-heading"><strong>Блок кода</strong></p>
+<p>В&nbsp;команде <var>if</var>&nbsp;при выполнении условия можно выполнять более одной команды. Для этого все их&nbsp;необходимо выделить отступом. Такая запись называется <strong>блоком кода</strong>. По&nbsp;отступам интерпретатор определяет, при выполнении каких условий какие команды исполнять. Аналогично можно делать и&nbsp;для команды <var>else</var>.</p>
+</section>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Представься, о незнакомец!'</span><span class="token punctuation">)</span>
+name <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> name <span class="token operator">==</span> <span class="token string">'Цезарь'</span> <span class="token keyword">or</span> name <span class="token operator">==</span> <span class="token string">'Caesar'</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Аве, Цезарь!'</span><span class="token punctuation">)</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Слава императору!'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Приветик.'</span><span class="token punctuation">)</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Погода сегодня хорошая.'</span><span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Засим - заканчиваем.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Перед последней строчкой нет отступа, это означает, что она будет выполнена в&nbsp;конце работы программы в&nbsp;любом случае. А&nbsp;вот две предыдущие строчки будут выполнены, только если условие <var>if</var>&nbsp;окажется ложным.</p>
+<p>Блоки кода в&nbsp;Python очень гибко устроены: внутри них можно писать любой другой код, в&nbsp;том числе условные операторы. Среди команд, которые выполняются, если условие <var>if</var>&nbsp;истинно («внутри&nbsp;if») или ложно («внутри else»), могут быть и&nbsp;другие условные операторы. Тогда команды, которые выполняются внутри этого внутреннего <var>if</var>&nbsp;или <var>else</var>, записываются с&nbsp;дополнительным отступом.</p>
+<p>Изучите пример ниже. <var>elif</var>&nbsp;— это короткая запись для «<code>else: if</code>». Если не&nbsp;пользоваться короткой записью, if&nbsp;пришлось&nbsp;бы писать на&nbsp;отдельной строчке и&nbsp;с&nbsp;отступом (а&nbsp;все, что внутри этого <var>if</var>,&nbsp;— с&nbsp;дополнительным отступом). Это не&nbsp;очень удобно, и&nbsp;<var>elif</var> избавляет от&nbsp;такой необходимости.</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Представься, о незнакомец!'</span><span class="token punctuation">)</span>
+name <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> name <span class="token operator">==</span> <span class="token string">'Цезарь'</span> <span class="token keyword">or</span> name <span class="token operator">==</span> <span class="token string">'Caesar'</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Аве, Цезарь!'</span><span class="token punctuation">)</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'В честь какого бога устроим сегодня празднество?'</span><span class="token punctuation">)</span>
+    god <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    <span class="token keyword">if</span> god <span class="token operator">==</span> <span class="token string">'Юпитер'</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Ура Громовержцу!'</span><span class="token punctuation">)</span>
+    <span class="token comment"># если оказалось, что имя бога не 'Юпитер', то проверяем, </span>
+    <span class="token comment"># не равно ли оно строке 'Минерва'</span>
+    <span class="token keyword">elif</span> god <span class="token operator">==</span> <span class="token string">'Минерва'</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Ура мудрой воительнице!'</span><span class="token punctuation">)</span>
+    <span class="token comment"># следующая строка будет выполнена, </span>
+    <span class="token comment"># только если имя бога не 'Юпитер' и не 'Минерва'</span>
+    <span class="token keyword">else</span><span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Бога по имени'</span><span class="token punctuation">,</span> god<span class="token punctuation">,</span> <span class="token string">'мы не знаем, но слово Цезаря - закон.'</span><span class="token punctuation">)</span>
+    <span class="token comment"># эта команда будет выполнена независимо от того, </span>
+    <span class="token comment"># какое имя бога ввёл пользователь, если только изначально</span>
+    <span class="token comment"># он представился Цезарем</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Слава императору!'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Приветик.'</span><span class="token punctuation">)</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Погода сегодня хорошая.'</span><span class="token punctuation">)</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Засим - заканчиваем.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>А&nbsp;более простой вариант этой программы теперь попробуйте написать самостоятельно.</p>
+</section>
+<section class="material__chapter">
+<h2 id="5">Операции над строками</h2>
+<p>Во&nbsp;всех примерах, которые мы&nbsp;рассматривали, переменные хранили строки. Мы&nbsp;вводили, выводили и&nbsp;хранили строки. Кроме уже описанных действий, строки еще можно складывать.</p>
+<p>Давайте попробуем:</p>
+<pre class=" language-python"><code class=" language-python">x <span class="token operator">=</span> <span class="token string">'10'</span>
+y <span class="token operator">=</span> <span class="token string">'20'</span>
+z <span class="token operator">=</span> x <span class="token operator">+</span> y
+<span class="token keyword">print</span><span class="token punctuation">(</span>z<span class="token punctuation">)</span>
+</code></pre>
+<section class="material__note">
+<p class="material__note-heading"><strong>PEP&nbsp;8</strong></p>
+<p>И&nbsp;опять немного рекомендаций по&nbsp;оформлению (PEP&nbsp;8): ставьте пробелы вокруг знаков операций (*, +, - и&nbsp;т.&nbsp;д.)</p>
+<p><strong>Правильно:</strong></p>
+<pre class=" language-python"><code class=" language-python">z <span class="token operator">=</span> x <span class="token operator">+</span> y
+</code></pre>
+<p><strong><span style="text-decoration: line-through;">Неправильно:</span></strong></p>
+<pre class=" language-python"><code class=" language-python">z <span class="token operator">=</span> x<span class="token operator">+</span>y
+</code></pre>
+</section>
+<p>В&nbsp;данной программе мы&nbsp;задали переменным <var>x</var>&nbsp;и&nbsp;<var>y</var>&nbsp;значение, переменной <var>z</var>&nbsp;присвоили значение результата сложения <var>x</var>&nbsp;и&nbsp;<var>y</var>.</p>
+<p>Результатом выполнения программы будет строка <strong>1020</strong>.</p>
+<section class="material__note">
+<p class="material__note-heading"><strong>Конкатенация</strong></p>
+<p>Операция сложения для строк выполняет конкатенацию двух строк, то&nbsp;есть склеивает их&nbsp;содержимое вместе.</p>
+<p>Например: операция <code>«При» + «вет»</code> в&nbsp;результате даст строку <code>«Привет»</code>.</p>
+</section>
+<p>Обратите внимание: запись: <code>x + y = z</code>&nbsp;недопустима. Оператор присваивания ожидает слева переменную, которой надо присвоить значение, а&nbsp;в&nbsp;правой части находится значение или выражение, которое надо сначала вычислить, а&nbsp;затем присвоить.</p>
+<p>Мы&nbsp;могли сократить нашу программу и&nbsp;написать в&nbsp;таком виде:</p>
+<pre class=" language-python"><code class=" language-python">x <span class="token operator">=</span> <span class="token string">'10'</span>
+y <span class="token operator">=</span> <span class="token string">'20'</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span>x <span class="token operator">+</span> y<span class="token punctuation">)</span>
+</code></pre>
+<p>Результат будет такой&nbsp;же, проверьте. Оператор <code>print()</code> сначала вычислил значение выражения <code>x + y</code>, а&nbsp;потом вывел на&nbsp;экран полученное значение.</p>
+<p>А&nbsp;еще такой результат можно получить вот таким образом:</p>
+<pre class=" language-python"><code class=" language-python"><span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'10'</span> <span class="token operator">+</span> <span class="token string">'20'</span><span class="token punctuation">)</span>
+</code></pre>
+<section class="material__note">
+<p class="material__note-heading"><strong>Дублирование</strong></p>
+<p>Для строк также можно выполнять умножение. Умножать можно строку на&nbsp;число или число на&nbsp;строку. Операция называется дублирование. В&nbsp;результате нее начальная строка будет повторена заданное количество раз.</p>
+<p>Например: <code>3 * "20"</code> то&nbsp;же, что и <code>"20" * 3</code>&nbsp;и&nbsp;, результат будет <code>202020</code> и&nbsp;в&nbsp;том, и&nbsp;в&nbsp;другом случае.</p>
+</section>
+<p>Примеры использования:</p>
+<pre class=" language-python"><code class=" language-python">x <span class="token operator">=</span> <span class="token string">'10'</span>
+y <span class="token operator">=</span> <span class="token string">'20'</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span>x <span class="token operator">*</span> <span class="token number">2</span> <span class="token operator">+</span> y <span class="token operator">*</span> <span class="token number">3</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Что будет на&nbsp;экране после запуска такой программы?</p>
+</section>
+<section class="material__chapter">
+<h2 id="6">Команда in</h2>
+<p>Теперь рассмотрим новую команду для работы со&nbsp;строками&nbsp;— команду&nbsp;<var>in</var>.</p>
+<section class="material__note">
+<p class="material__note-heading"><strong>Команда in</strong></p>
+<p>Команда <var>in</var>&nbsp;позволяет проверить, что одна строка находится внутри другой.</p>
+<p>Например: строка «на» находится внутри строки «сложная задача».</p>
+<p>В&nbsp;таком случае обычно говорят, что одна строка является <strong>подстрокой</strong> для другой.</p>
+</section>
+<pre class=" language-python"><code class=" language-python">text <span class="token operator">=</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+<span class="token keyword">if</span> <span class="token string">'хорош'</span> <span class="token keyword">in</span> text <span class="token keyword">and</span> <span class="token string">'плох'</span> <span class="token keyword">not</span> <span class="token keyword">in</span> text<span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Текст имеет положительную эмоциональную окраску.'</span><span class="token punctuation">)</span>
+<span class="token keyword">elif</span> <span class="token string">'плох'</span> <span class="token keyword">in</span> text <span class="token keyword">and</span> <span class="token string">'хорош'</span> <span class="token keyword">not</span> <span class="token keyword">in</span> text<span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Текст имеет отрицательную эмоциональную окраску.'</span><span class="token punctuation">)</span>
+<span class="token keyword">else</span><span class="token punctuation">:</span>
+    <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token string">'Текст имеет нейтральную или смешанную эмоциональную окраску.'</span><span class="token punctuation">)</span>
+</code></pre>
+<p>Первое условие окажется истинным, например, для строк «все хорошо» и&nbsp;«какой хороший день», но&nbsp;не&nbsp;для «ВсЕ ХоРоШо» и&nbsp;не&nbsp;для «что-то хорошо, а&nbsp;что-то и&nbsp;плохо». Аналогично второе условие окажется истинным для строк «все плохо», «плохое настроение» и&nbsp;т.&nbsp;д.</p>
+</section></article></section></div></main></div></div></div><footer class="footer"><div class="footer__controls"><a rel="noopener noreferrer" target="_blank" class="footer__help-link" href="https://yandex.ru/support/lyceum-students">Справка</a></div><div class="footer__legal"><div><div class="Markdown"><div class="paragraph">Исключительное право на учебную программу и все сопутствующие ей учебные материалы, доступные в рамках проекта «Лицей Академии Яндекса», принадлежат АНО ДПО «Образовательные технологии Яндекса». Воспроизведение, копирование, распространение и иное использование программы и материалов допустимо только с предварительного письменного согласия АНО ДПО «Образовательные технологии Яндекса».</div><div class="paragraph"><a href="http://yandex.ru/legal/lms_termsofuse/">Пользовательское соглашение</a>.</div></div></div><div class="footer__copyright">© <!-- -->2018 – 2023<!-- -->&nbsp;<!-- -->&nbsp;<span>ООО «</span><a rel="noopener noreferrer" target="_blank" class="footer__yandex-link" href="https://ya.ru">Яндекс</a><span>»</span></div></div></footer></div><div class="notifications"></div></div></div><noscript>You need to enable JavaScript to run this app</noscript><script nonce="">window.STATIC_DATA = {"avatarHost":"https://avatars.mds.yandex.net","contest":{"fileExtensions":[".py",".pas",".abc",".php",".c",".cpp",".cs",".java",".bas"]},"currentUrl":"https://lyceum.yandex.ru/","faviconLang":"ru","fileLimits":{"fileSize":262144,"displayableFileSize":102400},"lang":"ru","lyceumBotId":1,"metrika":{"accounts":[50125636],"options":{"accurateTrackBounce":true,"clickmap":true,"defer":true,"trackHash":true,"trackLinks":true,"webvisor":true}},"nonce":"U49VGqiDAT/3jYHnYJAbCw==","passportHost":"https://passport.yandex.ru","errorLogging":{"enabled":true},"tld":"ru","version":"hed_at_6b1fbd0f-6b1fbd0fcb","yandexuid":"3046094241650177351","wizard":[{"element":"/html/body/div[2]/div/div[2]/div[2]/div/aside/nav/ul/li/span","messageId":"switchTasks","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/a","messageId":"backToLesson","direction":[]},{"element":"/html/body/div[2]/div/div[2]/header/div[1]/div[2]/nav/div[2]/div/a[1]","messageId":"profile","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[1]/a","messageId":"taskDeskription","direction":[]},{"element":"/html/body/div/div[2]/div/div/main/div/div[2]/div/section/header/a","messageId":"openEditor","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[2]/div[1]/div/section/div[2]/div/div/div/div[1]/button[1]","messageId":"startWriteCode","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[2]/div[1]/div/section/div[2]/div/div/div/div[1]/button[2]","messageId":"copyCode","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[2]/div[1]/div/section/div[2]/div/div/div/div[1]/a","messageId":"downloadFile","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[2]/div[2]/div/section/header/button","messageId":"sendSolution","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[2]/div[2]/div/section/header/span","messageId":"uploadFromFile","direction":[]},{"element":"/html/body/div[2]/div/div[2]/div[2]/div/main/div[2]/div[2]/div/section/form/div/div","messageId":"sendComment","direction":[]},{"element":"/html/body/div[2]/div/div[2]/article/div/div/main/div/div/section/div/div[1]/section/div[1]/header/div[2]/section/div/div/div[2]/span/button","messageId":"editMark","direction":[]}],"yandexChats":{"widgetOptions":{"serviceId":20,"collapsedDesktop":"never","iframeUrlParams":{"header":"disabled","config":"production"}},"notificationBotGUID":"9f9d9d80-d1fa-4d53-a8a1-e57264b7fcb8","newsBotGUID":"ea74bf01-d490-90c3-439b-e6678db0df0d"}}</script><script nonce="">window.INITIAL_STATE = {"users":{"user":{"id":151381,"uid":1395177699,"username":"medved3loy","isActive":true,"lastName":"Ильин","firstName":"Кирилл","middleName":"Русланович","displayName":"Ильин Кирилл","avatar":"69015/mkPaxigfHqFKbyMKwtCBma6k-1","timezone":"Asia/Yekaterinburg","phone":"+79088861045","email":"medved3loy@yandex.ru","birthDate":"2006-12-12","dateJoined":"2021-09-06T17:30:42.009945+05:00","isStaff":false,"isSuperuser":false,"isEditable":false,"tags":[],"city":"","clubs":"","competitions":"","parentsInfo":{"parentEmail":"Veronika29702@yandex.ru","parentPhone":"+7 922 412 52 30","parentLastName":"Ильина","parentFirstName":"Вероника","parentMiddleName":"Владимировна"},"programmingExperience":"","school":"ЛГ МАУ СОШ №1","schoolClass":"9 класс","children":null,"parents":null,"gender":"male","groups":[{"id":1,"name":"students"},{"id":2,"name":"teachers"}],"permissions":["account.view_interview","account.can_view_interval","account.change_interval","account.change_interview","account.change_information","account.can_view_interview","account.view_user","account.delete_interval","account.add_interval","account.view_location","account.change_user","account.can_assign_interview","account.view_interval"],"managedCities":[],"managedVenues":[],"cityToManagedVenues":[]}},"groups":{"groupMap":{"4655":{"id":4655,"name":"Лангепас - СОШ 2 - 1 - Д1"},"5705":{"id":5705,"name":"Лангепас - 2 - 1 - Д2"},"6947":{"id":6947,"name":"Отбор Django 2023 - 2"}}},"courses":{"courseMap":{"538":{"id":538,"title":"Основы программирования на языке Python | Д21","role":"student","groups":[4655],"passType":"schedule","isArchive":false},"766":{"id":766,"title":"Основы промышленного программирования | Д22","role":"student","groups":[5705],"passType":"schedule","isArchive":false},"902":{"id":902,"title":"Django | Отбор в Интенсивы Академии Яндекса | Весна 22/23","role":"student","groups":[6947],"passType":"schedule","isArchive":false}},"allIds":[902,538,766]},"courseDetails":{"fetchError":null,"fetchStatus":null,"courseDetails":null,"courseBanners":[],"courseLogo":null},"notificationCenter":{"notificationMap":{},"notificationIds":[],"fetchStatus":null,"fetchError":null,"unreadCount":1685,"isConsistent":true}}</script><script src="//yastatic.net/s3/frontend/yandex-lego/serp-header/_/2rxQh59p.js" crossorigin="anonymous"></script><style>@font-face{font-family:YS Text Chat Widget;src:url(//yastatic.net/s3/home/fonts/ys/1/text-medium.woff2) format("woff2"),url(//yastatic.net/s3/home/fonts/ys/1/text-medium.woff) format("woff");font-weight:500;font-style:normal;font-stretch:normal}.ya-chat-disable-page-scroll{overscroll-behavior:none!important;overflow:hidden}.ya-chat-disable-page-scroll_ios{position:fixed;left:0;top:0;right:0}.ya-chat-widget__mount{position:relative;-webkit-flex:1 1;-ms-flex:1 1;flex:1 1;width:100%;border-radius:inherit;overflow:hidden;z-index:10}.ya-chat-widget_theme_legacy{position:relative;width:35px;height:35px}.ya-chat-widget_theme_dark,.ya-chat-widget_theme_light{position:fixed;top:auto;right:var(--yandex-mssngr-widget-button-offset-right,20px);bottom:var(--yandex-mssngr-widget-button-offset-bottom,20px);z-index:10000}.ya-chat-widget_theme_dark.ya-chat-widget_shadow,.ya-chat-widget_theme_light.ya-chat-widget_shadow{-webkit-box-shadow:0 -2px 6px rgba(14,21,47,.03),0 6px 18px rgba(14,21,47,.13);box-shadow:0 -2px 6px rgba(14,21,47,.03),0 6px 18px rgba(14,21,47,.13)}.ya-chat-widget_theme_dark.ya-chat-widget_desktop,.ya-chat-widget_theme_light.ya-chat-widget_desktop{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:flex-end;-ms-flex-align:end;align-items:flex-end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end;min-width:40px;height:40px;border-radius:13px;-webkit-transition:border-radius .4s ease,-webkit-box-shadow .4s ease;transition:border-radius .4s ease,-webkit-box-shadow .4s ease;-o-transition:border-radius .4s ease,box-shadow .4s ease;transition:border-radius .4s ease,box-shadow .4s ease;transition:border-radius .4s ease,box-shadow .4s ease,-webkit-box-shadow .4s ease}@media screen and (max-height:560px){.ya-chat-widget_theme_dark.ya-chat-widget_desktop,.ya-chat-widget_theme_light.ya-chat-widget_desktop{max-height:calc(100vh - 40px)}}.ya-chat-widget_theme_dark.ya-chat-widget_desktop.ya-chat-widget_visible,.ya-chat-widget_theme_light.ya-chat-widget_desktop.ya-chat-widget_visible{border-radius:8px}.ya-chat-widget_theme_dark.ya-chat-widget_desktop.ya-chat-widget_theme_light,.ya-chat-widget_theme_light.ya-chat-widget_desktop.ya-chat-widget_theme_light{background-color:var(--yandex-mssngr-widget-loader-background-color,#fff)}.ya-chat-widget_theme_dark.ya-chat-widget_desktop.ya-chat-widget_theme_dark,.ya-chat-widget_theme_light.ya-chat-widget_desktop.ya-chat-widget_theme_dark{background-color:var(--yandex-mssngr-widget-loader-background-color,#292c33)}.ya-chat-widget_theme_dark.ya-chat-widget_size_large,.ya-chat-widget_theme_light.ya-chat-widget_size_large{min-width:60px;height:60px;border-radius:19.5px}.ya-chat-widget_theme_dark.ya-chat-widget_fullscreen,.ya-chat-widget_theme_light.ya-chat-widget_fullscreen{position:fixed;top:0;right:0;bottom:0;left:0;-webkit-transform:none;transform:none;width:100vw;min-width:100vw;height:100vh;min-height:100vh}.ya-chat-widget_theme_hidden{position:fixed;top:auto;right:20px;bottom:20px;z-index:10000}.ya-chat-widget_theme_hidden.ya-chat-widget_fullscreen{top:0;right:0;bottom:0;left:0;-webkit-transform:none;transform:none;width:100vw;min-width:100vw;height:100vh;min-height:100vh}.ya-chat-paranja{position:fixed;top:0;right:0;bottom:0;left:0;z-index:10005;display:none;visibility:hidden;-webkit-transition:opacity .32s ease .08s,visibility 0s ease .4s;-o-transition:opacity .32s ease .08s,visibility 0s ease .4s;transition:opacity .32s ease .08s,visibility 0s ease .4s;opacity:0;background-color:rgba(0,0,0,.56);-webkit-tap-highlight-color:rgba(0,0,0,0)}.ya-chat-paranja_visible{visibility:visible;-webkit-transition-delay:0s;-o-transition-delay:0s;transition-delay:0s;opacity:1}.ya-chat-paranja_mobile{display:block}.ya-chat-popup{z-index:10010;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;pointer-events:none;background-color:#fff;color:#292c33}.ya-chat-popup__content-wrapper{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;height:100%;border-radius:inherit}.ya-chat-popup_position_static{position:absolute;bottom:0;right:0}.ya-chat-popup_position_target{position:fixed;left:-9999px;top:-9999px}.ya-chat-popup_position_absolute{position:absolute;left:-9999px;top:-9999px}.ya-chat-popup_position_fixed{position:fixed;left:0;top:40px;bottom:0;right:0;border-radius:0;overflow:visible}.ya-chat-popup_visible{pointer-events:auto}.ya-chat-popup.ya-chat-popup_visible.ya-chat-popup_fullscreen{position:static;min-width:100%;min-height:100%;border-radius:0}.ya-chat-popup.ya-chat-popup_visible.ya-chat-popup_fullscreen.ya-chat-popup_position_fixed,.ya-chat-popup.ya-chat-popup_visible.ya-chat-popup_fullscreen.ya-chat-popup_position_target{position:fixed;top:0;left:0}.ya-chat-popup.ya-chat-popup_visible.ya-chat-popup_fullscreen .ya-chat-popup__content-wrapper{min-width:100vw;min-height:100vh}.ya-chat-popup_mobile{opacity:0;pointer-events:none;-webkit-transform:translateY(100%);transform:translateY(100%);-webkit-transition:opacity .4s ease,-webkit-transform .4s ease;transition:opacity .4s ease,-webkit-transform .4s ease;-o-transition:transform .4s ease,opacity .4s ease;transition:transform .4s ease,opacity .4s ease;transition:transform .4s ease,opacity .4s ease,-webkit-transform .4s ease}.ya-chat-popup_mobile.ya-chat-popup_visible{-webkit-transform:translateY(0);transform:translateY(0);pointer-events:auto;opacity:1}.ya-chat-popup_theme_hidden.ya-chat-popup_desktop,.ya-chat-popup_theme_legacy.ya-chat-popup_desktop{overflow:visible;-webkit-transform:scale(0);transform:scale(0);opacity:0;-webkit-transition:opacity .1s,-webkit-transform 0s .1s;transition:opacity .1s,-webkit-transform 0s .1s;-o-transition:opacity .1s,transform 0s .1s;transition:opacity .1s,transform 0s .1s;transition:opacity .1s,transform 0s .1s,-webkit-transform 0s .1s;border-radius:4px;-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.4),0 0 0 1px rgba(0,0,0,.06);box-shadow:0 10px 20px -5px rgba(0,0,0,.4),0 0 0 1px rgba(0,0,0,.06)}.ya-chat-popup_theme_hidden.ya-chat-popup_desktop.ya-chat-popup_visible,.ya-chat-popup_theme_legacy.ya-chat-popup_desktop.ya-chat-popup_visible{-webkit-transform:scale(1);transform:scale(1);opacity:1;-webkit-transition:opacity .1s;-o-transition:opacity .1s;transition:opacity .1s}.ya-chat-popup:not(.ya-chat-popup_fullscreen).ya-chat-popup_theme_hidden.ya-chat-popup_desktop .ya-chat-popup__content-wrapper{width:420px;min-width:360px;height:600px;max-height:calc(100vh - 40px);max-width:calc(100vw - 40px)}.ya-chat-popup:not(.ya-chat-popup_fullscreen).ya-chat-popup_theme_legacy.ya-chat-popup_desktop .ya-chat-popup__content-wrapper{width:420px;min-width:360px;height:600px;max-height:calc(100vh - 80px);max-width:calc(100vw - 80px)}.ya-chat-popup_theme_dark.ya-chat-popup_desktop,.ya-chat-popup_theme_light.ya-chat-popup_desktop{overflow:hidden;border-radius:inherit;max-width:100%;max-height:100%;z-index:0;-webkit-box-shadow:0 -2px 6px rgba(14,21,47,.03),0 6px 18px rgba(14,21,47,.13);box-shadow:0 -2px 6px rgba(14,21,47,.03),0 6px 18px rgba(14,21,47,.13);-webkit-transition:max-width .4s ease,max-height .4s ease,-webkit-box-shadow .4s ease;transition:max-width .4s ease,max-height .4s ease,-webkit-box-shadow .4s ease;-o-transition:max-width .4s ease,max-height .4s ease,box-shadow .4s ease;transition:max-width .4s ease,max-height .4s ease,box-shadow .4s ease;transition:max-width .4s ease,max-height .4s ease,box-shadow .4s ease,-webkit-box-shadow .4s ease}.ya-chat-popup_theme_dark.ya-chat-popup_desktop:not(.ya-chat-popup_fullscreen),.ya-chat-popup_theme_light.ya-chat-popup_desktop:not(.ya-chat-popup_fullscreen){min-width:100%;min-height:100%}.ya-chat-popup_theme_dark.ya-chat-popup_desktop:not(.ya-chat-popup_fullscreen) .ya-chat-popup__content-wrapper,.ya-chat-popup_theme_light.ya-chat-popup_desktop:not(.ya-chat-popup_fullscreen) .ya-chat-popup__content-wrapper{width:360px;min-width:360px;max-width:calc(100vw - 40px);height:520px;max-height:calc(100vh - 40px);opacity:0;-webkit-transition:opacity .32s ease;-o-transition:opacity .32s ease;transition:opacity .32s ease}.ya-chat-popup_theme_light{background-color:var(--yandex-mssngr-widget-loader-background-color,#fff)}.ya-chat-popup_theme_dark{background-color:var(--yandex-mssngr-widget-loader-background-color,#292c33)}.ya-chat-popup_theme_dark.ya-chat-popup_desktop.ya-chat-popup_visible,.ya-chat-popup_theme_light.ya-chat-popup_desktop.ya-chat-popup_visible{-webkit-box-shadow:0 10px 20px -5px rgba(0,0,0,.4),0 0 0 1px rgba(0,0,0,.06);box-shadow:0 10px 20px -5px rgba(0,0,0,.4),0 0 0 1px rgba(0,0,0,.06);max-width:calc(100vw - 40px);max-height:calc(100vh - 40px)}.ya-chat-popup_theme_dark.ya-chat-popup_desktop.ya-chat-popup_visible:not(.ya-chat-popup_fullscreen),.ya-chat-popup_theme_light.ya-chat-popup_desktop.ya-chat-popup_visible:not(.ya-chat-popup_fullscreen){min-width:0;min-height:0}.ya-chat-popup_theme_dark.ya-chat-popup_desktop.ya-chat-popup_visible .ya-chat-popup__content-wrapper,.ya-chat-popup_theme_light.ya-chat-popup_desktop.ya-chat-popup_visible .ya-chat-popup__content-wrapper{opacity:1;-webkit-transition:opacity .32s ease .08s;-o-transition:opacity .32s .08s ease;transition:opacity .32s ease .08s}.ya-chat-badge{position:absolute;-webkit-transition:-webkit-transform .08s ease-out;transition:-webkit-transform .08s ease-out;-o-transition:transform .08s ease-out;transition:transform .08s ease-out;transition:transform .08s ease-out,-webkit-transform .08s ease-out;-webkit-transform:scale(0);transform:scale(0)}.ya-chat-badge_has-count{-webkit-transform:scale(1);transform:scale(1)}.ya-chat-badge_type_dot{bottom:auto;left:auto;width:8px;height:8px;-webkit-box-sizing:content-box;box-sizing:content-box;border:2px solid #fff;border-radius:50%;background-clip:padding-box;background-color:red}.ya-chat-badge_type_dot .ya-chat-badge__count{display:none}.ya-chat-badge__count{font-size:13px;font-weight:700;line-height:15px;color:#fff;vertical-align:middle;text-align:center;border-radius:15px;cursor:pointer;padding:0 4px;-webkit-box-sizing:border-box;box-sizing:border-box;background-color:red}.ya-chat-badge_theme_legacy{top:3px;right:3px}.ya-chat-badge_theme_dark,.ya-chat-badge_theme_light{top:-3px;right:-3px}.ya-chat-button{display:block;visibility:visible;cursor:pointer;text-decoration:none;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-user-select:none}.ya-chat-button_mobile{top:12px;left:12px}.ya-chat-button__container{display:-webkit-flex;display:-ms-flexbox;display:flex;overflow:hidden;-webkit-align-items:center;-ms-flex-align:center;align-items:center;cursor:pointer}.ya-chat-button__text{-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;overflow:hidden;cursor:pointer}.ya-chat-button__text-container{overflow:hidden;padding-left:8px;font-size:14px;font-weight:500;line-height:20px;vertical-align:middle;white-space:nowrap;-o-text-overflow:ellipsis;text-overflow:ellipsis;cursor:pointer}.ya-chat-button_theme_legacy{width:100%;height:100%}.ya-chat-button_theme_legacy .ya-chat-button__container{padding:0 7px;height:100%}.ya-chat-button_theme_legacy .ya-chat-button__text{display:none}.ya-chat-button_theme_legacy .ya-chat-icon{width:21px;height:21px}.ya-chat-button_theme_legacy:active .ya-chat-icon{-webkit-transform:scale(.9);transform:scale(.9)}.ya-chat-button_theme_dark,.ya-chat-button_theme_light{position:relative;-webkit-transition:opacity .08s ease .32s;-o-transition:opacity .08s .32s ease;transition:opacity .08s ease .32s;z-index:1}.ya-chat-button_theme_dark.ya-chat-button_hidden,.ya-chat-button_theme_light.ya-chat-button_hidden{-webkit-transition:opacity .08s ease;-o-transition:opacity .08s ease;transition:opacity .08s ease;opacity:0;pointer-events:none}.ya-chat-button_theme_dark .ya-chat-button__container,.ya-chat-button_theme_light .ya-chat-button__container{vertical-align:top;white-space:nowrap;padding-left:8px;padding-right:10px;height:40px;max-width:280px;-webkit-transform-origin:100% 50%;transform-origin:100% 50%;border-radius:13px;-webkit-box-sizing:border-box;box-sizing:border-box}.ya-chat-button_theme_dark .ya-chat-button__container_size_large,.ya-chat-button_theme_light .ya-chat-button__container_size_large{height:60px;max-width:420px;border-radius:19.5px}.ya-chat-button_theme_dark.ya-chat-button_desktop .ya-chat-button__container:after,.ya-chat-button_theme_light.ya-chat-button_desktop .ya-chat-button__container:after{content:"";position:absolute;top:0;left:0;width:calc(100% + 20px);height:calc(100% + 20px)}.ya-chat-button_theme_dark.ya-chat-button_mobile .ya-chat-button__container,.ya-chat-button_theme_light.ya-chat-button_mobile .ya-chat-button__container{-webkit-box-shadow:0 6px 20px -5px rgba(0,0,0,.4),0 0 0 1px rgba(0,0,0,.06);box-shadow:0 6px 20px -5px rgba(0,0,0,.4),0 0 0 1px rgba(0,0,0,.06)}.ya-chat-button_theme_dark.ya-chat-button_mobile .ya-chat-button__container:after,.ya-chat-button_theme_light.ya-chat-button_mobile .ya-chat-button__container:after{content:"";position:absolute;left:-12px;top:-12px;width:calc(100% + 24px);height:calc(100% + 24px)}.ya-chat-button_theme_dark.ya-chat-button_collapsed_always .ya-chat-button__container,.ya-chat-button_theme_light.ya-chat-button_collapsed_always .ya-chat-button__container{padding-left:6px;padding-right:6px}.ya-chat-button_theme_dark.ya-chat-button_collapsed_always .ya-chat-button__container_size_large,.ya-chat-button_theme_light.ya-chat-button_collapsed_always .ya-chat-button__container_size_large{padding-left:9px;padding-right:9px}.ya-chat-button_theme_dark.ya-chat-button_collapsed_always .ya-chat-button__text,.ya-chat-button_theme_light.ya-chat-button_collapsed_always .ya-chat-button__text{display:none}.ya-chat-button_theme_dark.ya-chat-button_collapsed_hover .ya-chat-button__text,.ya-chat-button_theme_light.ya-chat-button_collapsed_hover .ya-chat-button__text{-webkit-transition:opacity .4s ease;-o-transition:opacity .4s ease;transition:opacity .4s ease}.ya-chat-button_theme_dark.ya-chat-button_collapsed_hover:not(:hover) .ya-chat-button__container,.ya-chat-button_theme_light.ya-chat-button_collapsed_hover:not(:hover) .ya-chat-button__container{max-width:40px;padding-left:6px;padding-right:6px}.ya-chat-button_theme_dark.ya-chat-button_collapsed_hover:not(:hover) .ya-chat-button__container_size_large,.ya-chat-button_theme_light.ya-chat-button_collapsed_hover:not(:hover) .ya-chat-button__container_size_large{max-width:60px;padding-left:9px;padding-right:9px}.ya-chat-button_theme_dark.ya-chat-button_collapsed_hover:not(:hover) .ya-chat-button__text,.ya-chat-button_theme_light.ya-chat-button_collapsed_hover:not(:hover) .ya-chat-button__text{opacity:0}.ya-chat-button_theme_light .ya-chat-button__container{background-color:#fff}.ya-chat-button_theme_light .ya-chat-button__text{color:#292c33}.ya-chat-button_theme_dark .ya-chat-button__container{background-color:#292c33}.ya-chat-button_theme_dark .ya-chat-button__text{color:#fff}.ya-chat-button.ya-chat-button_theme_hidden{display:none}.ya-chat-icon{width:28px;height:28px;-webkit-flex:none;-ms-flex:none;flex:none;cursor:pointer;color:#4e66ff}.ya-chat-icon_theme-extended_happy_new_year{background-image:url(https://yastatic.net/s3/chat-static/spec/ny2019/ny-image-36.png);background-size:contain;background-repeat:no-repeat;background-position:50%;height:42px;width:42px}@media (-o-min-device-pixel-ratio:2/1),(-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){.ya-chat-icon_theme-extended_happy_new_year{background-image:url(https://yastatic.net/s3/chat-static/spec/ny2019/new-year-chats@2x.png)}}.ya-chat-icon_type_black{color:#000}.ya-chat-icon_type_white{color:#fff}.ya-chat-icon_size_large{height:42px;width:42px}.ya-chat-promo{position:absolute;top:-186px;right:-114px;-webkit-animation:circleLoad 10s cubic-bezier(.06,.91,.17,1) 2s;animation:circleLoad 10s cubic-bezier(.06,.91,.17,1) 2s;width:380px;height:380px;visibility:hidden;border-radius:100%;background-color:#65e6e6}.ya-chat-promo_hidden{-webkit-animation:none;animation:none;display:none}.ya-chat-promo__close-btn,.ya-chat-promo__text{position:absolute;opacity:0;-webkit-animation:contentLoad 9.7s linear 2.3s;animation:contentLoad 9.7s linear 2.3s}.ya-chat-promo__close-btn{top:40px;right:124px;color:#333;cursor:pointer}.ya-chat-promo__text{font-size:14px;font-weight:500;line-height:20px;top:94px;left:80px;max-width:180px;color:#000}@-webkit-keyframes circleLoad{0%{visibility:visible;-webkit-transform:scale(.4);transform:scale(.4)}6%{visibility:visible;-webkit-transform:scale(1);transform:scale(1)}to{visibility:hidden}}@keyframes circleLoad{0%{visibility:visible;-webkit-transform:scale(.4);transform:scale(.4)}6%{visibility:visible;-webkit-transform:scale(1);transform:scale(1)}to{visibility:hidden}}@-webkit-keyframes contentLoad{0%{opacity:0}6%{opacity:1}to{opacity:1}}@keyframes contentLoad{0%{opacity:0}6%{opacity:1}to{opacity:1}}.ya-chat-header{display:none;-webkit-tap-highlight-color:rgba(0,0,0,0);position:relative;width:100%;height:49px;border-bottom:1px solid #e6ebf1;border-top-left-radius:inherit;border-top-right-radius:inherit;background-color:#f3f5f8;visibility:hidden;-webkit-transition:visibility .4s ease;-o-transition:visibility ease .4s;transition:visibility .4s ease}.ya-chat-header__text{font-size:16px;font-weight:500;line-height:48px;overflow:hidden;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%;max-width:100%;padding:0 48px 0 16px;white-space:nowrap;-o-text-overflow:ellipsis;text-overflow:ellipsis;color:#333;-webkit-user-select:none}.ya-chat-header__close{position:absolute;top:0;right:0;width:48px;height:100%;cursor:pointer;opacity:.8;background:url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='currentColor' clip-rule='evenodd' d='M19.207 6.207a1 1 0 00-1.414-1.414L12 10.586 6.207 4.793a1 1 0 00-1.414 1.414L10.586 12l-5.793 5.793a1 1 0 101.414 1.414L12 13.414l5.793 5.793a1 1 0 001.414-1.414L13.414 12l5.793-5.793z'/%3E%3C/svg%3E") no-repeat 50%;background-size:50%}.ya-chat-header__close:hover{opacity:1}.ya-chat-header_visible{display:block;visibility:visible;-webkit-transition-delay:0s;-o-transition-delay:0s;transition-delay:0s}.ya-chat-header_hidden,.ya-chat-header_theme_hidden.ya-chat-header_empty,.ya-chat-header_theme_legacy.ya-chat-header_empty{display:none}.ya-chat-messenger-iframe{position:absolute;left:0;top:0;width:100%;height:100%;border:0;border-bottom-left-radius:inherit;border-bottom-right-radius:inherit;display:none}.ya-chat-messenger-iframe_visible{display:block}.ya-chat-error{position:absolute;top:50%;left:50%;color:var(--yandex-mssngr-widget-error-text-color,#292c33);display:none;max-width:95%;padding:10px;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%);text-align:center}.ya-chat-error_visible{display:block;z-index:11}.ya-chat-error__title{font-size:22.5px;font-weight:700;line-height:1.467;margin-bottom:12px;text-align:center}.ya-chat-error__button{font-size:14px;font-weight:500;line-height:36px;padding:0 16px;cursor:pointer;text-align:center;white-space:nowrap;letter-spacing:.5px;text-transform:uppercase;color:var(--yandex-mssngr-widget-error-button-color,#1c70c4);-webkit-tap-highlight-color:rgba(0,0,0,0)}.ya-chat-error_mobile{background-color:rgba(0,0,0,.05)}.ya-chat-error_theme_dark{color:var(--yandex-mssngr-widget-error-text-color,#fff)}.ya-chat-loader{position:absolute;top:0;right:0;bottom:0;left:0;opacity:0;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}.ya-chat-loader__spinner{width:38px;height:38px;border-bottom:2px solid transparent;border-right:2px solid transparent;border-top:2px solid transparent;border-top-color:var(--yandex-mssngr-widget-spinner-color,#00a8a8);border-left:2px solid transparent;border-left-color:var(--yandex-mssngr-widget-spinner-color,#00a8a8);border-radius:50%}.ya-chat-loader_visible{opacity:1}.ya-chat-loader_visible .ya-chat-loader__spinner{-webkit-animation:ya-chat-loader-spinner-rotate 1s linear infinite;animation:ya-chat-loader-spinner-rotate 1s linear infinite}@-webkit-keyframes ya-chat-loader-spinner-rotate{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes ya-chat-loader-spinner-rotate{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.ya-chat-close{visibility:hidden;-webkit-transition:opacity .4s ease;-o-transition:opacity ease .4s;transition:opacity .4s ease;position:absolute;right:8px;top:8px;z-index:100;pointer-events:none}.ya-chat-close__button-box{position:relative;padding:4px;border-radius:50%;width:24px;height:24px;-webkit-box-sizing:content-box;box-sizing:content-box;cursor:pointer}.ya-chat-close__button-box:hover{background-color:#eff3f6}.ya-chat-close__button-box:active>*{opacity:.8}.ya-chat-close__button{width:100%;height:100%;background-size:100%;cursor:pointer;background:url("data:image/svg+xml;charset=utf-8,%3Csvg width='24' height='24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='currentColor' clip-rule='evenodd' d='M19.207 6.207a1 1 0 00-1.414-1.414L12 10.586 6.207 4.793a1 1 0 00-1.414 1.414L10.586 12l-5.793 5.793a1 1 0 101.414 1.414L12 13.414l5.793 5.793a1 1 0 001.414-1.414L13.414 12l5.793-5.793z'/%3E%3C/svg%3E") no-repeat 50%}.ya-chat-close_visible{visibility:visible;pointer-events:auto}</style><!--noindex--><div data-ref="widget" class="ya-chat-widget ya-chat-widget_desktop ya-chat-widget_theme_light ya-chat-widget_size_normal" style="bottom: 170px;">
+
+
+        <a data-ref="button" class="ya-chat-button ya-chat-button_theme_light ya-chat-button_collapsed_never ya-chat-button_size_normal ya-chat-button_desktop">
+            <div class="ya-chat-button__container ya-chat-button__container_size_normal">
+                <svg class="ya-chat-icon ya-chat-icon_type_colored ya-chat-icon_size_normal" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <g clip-path="url(#clip-mssngr-widget-icon)">
+        <g filter="url(#filter0-mssngr-widget)">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M14 0C2.8 0 0 2.8 0 14C0 25.2 2.8 28 14 28C25.2 28 28 25.2 28 14C28 2.8 25.2 0 14 0Z" fill="#00D7D7"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M14 0C2.8 0 0 2.8 0 14C0 25.2 2.8 28 14 28C25.2 28 28 25.2 28 14C28 2.8 25.2 0 14 0Z" fill="url(#paint0_linear-mssngr-widget)"></path>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M14 0C2.8 0 0 2.8 0 14C0 25.2 2.8 28 14 28C25.2 28 28 25.2 28 14C28 2.8 25.2 0 14 0Z" fill="url(#paint1_linear-mssngr-widget)"></path>
+        </g>
+            <path d="M25.0249 13.7106C24.9593 13.5028 24.8061 13.3169 24.5983 13.1965L8.49834 4.16217C7.86396 3.81217 7.0874 4.2606 7.0874 4.99342V7.11529V8.38404L25.0249 13.7106Z" fill="#FAFFFE"></path>
+            <path d="M7.0874 20.9013V23.0231C7.0874 23.745 7.86396 24.2044 8.49834 23.8544L24.5983 14.831C24.8171 14.7106 24.9593 14.5247 25.0249 14.3169L7.0874 19.6216V20.9013Z" fill="#C8F4F9"></path>
+            <path d="M7.08759 8.37787L5.87353 8.01693C5.07509 7.77631 4.38603 8.60756 4.7579 9.35131L5.41415 10.6529L6.87978 13.5732L7.09853 13.9997V8.37787H7.08759Z" fill="#DEF8FB"></path>
+            <path d="M7.0874 13.9998H25.0796C25.0796 13.8904 25.0577 13.792 25.0249 13.6936L7.0874 8.37793V13.9998Z" fill="#DEF8FB"></path>
+            <path d="M7.09853 14.0005L4.7579 18.6489C4.38603 19.3927 5.07509 20.2239 5.87353 19.9833L7.08759 19.6224V14.0005H7.09853Z" fill="#FAFFFE"></path>
+            <path d="M7.0874 19.6219L25.0358 14.3063C25.0686 14.2078 25.0905 14.0984 25.0905 14H7.0874V19.6219Z" fill="#FAFFFE"></path>
+        </g>
+        <defs>
+        <filter id="filter0-mssngr-widget" x="-25.7204" y="-14.7308" width="79.4408" height="79.4408" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feFlood flood-opacity="0" result="BackgroundImageFix"></feFlood>
+            <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"></feColorMatrix>
+            <feOffset dy="10.9896"></feOffset>
+            <feGaussianBlur stdDeviation="12.8602"></feGaussianBlur>
+            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.06 0"></feColorMatrix>
+            <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"></feBlend>
+            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"></feBlend>
+        </filter>
+        <linearGradient id="paint0_linear-mssngr-widget" x1="44.8437" y1="-28.5469" x2="14" y2="16.5156" gradientUnits="userSpaceOnUse">
+            <stop stop-color="white"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <linearGradient id="paint1_linear-mssngr-widget" x1="14" y1="33.3594" x2="34.3437" y2="-11.4844" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#00BCBC"></stop>
+            <stop offset="1" stop-color="white" stop-opacity="0"></stop>
+        </linearGradient>
+        <clipPath id="clip-mssngr-widget-icon">
+            <path d="M0 0H28V28H0V0Z" fill="white"></path>
+        </clipPath>
+        </defs>
+    </svg>
+
+        <div class="ya-chat-button__text">
+            <div class="ya-chat-button__text-container">Чаты</div>
+        </div>
+            </div>
+
+        <div data-ref="badge" class="ya-chat-badge ya-chat-badge_theme_light ya-chat-badge_type_num ya-chat-badge_size_normal">
+            <div data-ref="badgeCount" class="ya-chat-badge__count"></div>
+        </div>
+
+        </a>
+
+        <div data-ref="paranja" data-attach-to="" class="ya-chat-paranja"></div>
+
+        <div data-ref="popup" data-attach-to="" class="ya-chat-popup ya-chat-popup_position_static ya-chat-popup_desktop ya-chat-popup_theme_light">
+            <div class="ya-chat-popup__content-wrapper" data-ref="popup-content-wrapper" style="width: 360px !important; height: 520px !important">
+
+
+        <div data-ref="header" class="ya-chat-header ya-chat-header_theme_light">
+            <div class="ya-chat-header__text">
+                Чаты
+            </div>
+            <div data-ref="headerClose" class="ya-chat-header__close"></div>
+        </div>
+
+
+        <div data-ref="close" class="ya-chat-close ya-chat-close_theme_light">
+            <div data-ref="closeButton" class="ya-chat-close__button-box">
+                <div class="ya-chat-close__button"></div>
+            </div>
+        </div>
+
+            <div data-ref="mount:widget__mount" class="ya-chat-widget__mount">
+
+        <div data-ref="loader" class="ya-chat-loader ya-chat-loader_theme_light">
+            <div class="ya-chat-loader__spinner"></div>
+        </div>
+
+            </div>
+
+        <div data-ref="error" class="ya-chat-error ya-chat-error_theme_light">
+            <div class="ya-chat-error__title">Не удалось загрузить чат</div>
+            <div class="ya-chat-error__button">Попробовать ещё раз</div>
+        </div>
+
+
+            </div>
+        </div>
+
+
+        </div><!--/noindex--><div data-lego="react" class="popup2 popup2_view_classic popup2_theme_normal popup2_target_anchor"><section class="notification-center notification-center_theme_light"><header class="notification-center__header"><h1 class="notification-center__title notification-center__title_theme_light">Уведомления</h1><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification-center__hide-all-button notification-center__hide-all-button_visible" autocomplete="off"><span data-lego="react" class="icon icon_type_remove-all icon_size_l Button2-Icon"></span></button></span></header><main class="notification-center__main"><ul class="notification-center__list"><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3574"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. Разворачиваем проект в облаке. Дорешка</div><time class="notification__time">1 февр., 21:35</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3573"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. REST-API. Flask-restful</div><time class="notification__time">1 февр., 21:35</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3572"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. REST-API. Понятие. Делаем простое Rest-api</div><time class="notification__time">1 февр., 21:34</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3571"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. Flask-sqlalchemy</div><time class="notification__time">1 февр., 21:34</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3570"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. Знакомство с flask-sqlalchemy</div><time class="notification__time">1 февр., 21:34</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3569"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. Шаблоны. flask-wtf</div><time class="notification__time">1 февр., 21:34</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3568"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">WEB. Введение во flask. Обработка HTML-форм</div><time class="notification__time">1 февр., 21:34</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3560"><h2 class="notification__title">Открыт новый урок</h2><div class="notification__body notification__body_type_padded">Библиотеки unittest и pytest</div><time class="notification__time">1 февр., 08:31</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25874"><h2 class="notification__title">Проверена задача: 50/50</h2><div class="notification__body"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_green indicator_size_xs"><span data-lego="react" class="icon icon_type_tick-white icon_size_xs"></span></div></div><div class="task-preview__data"><span class="task-preview__task-name">Архивирование</span><div class="task-preview__lesson"><div class="indicator indicator_color_grey indicator_size_xs"><span data-lego="react" class="icon icon_type_tick-green icon_size_xs"></span></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">1 февр., 08:30</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25674"><h2 class="notification__title">Проверена задача: 50/50</h2><div class="notification__body"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_green indicator_size_xs"><span data-lego="react" class="icon icon_type_tick-white icon_size_xs"></span></div></div><div class="task-preview__data"><span class="task-preview__task-name">Что удалить?</span><div class="task-preview__lesson"><div class="indicator indicator_color_grey indicator_size_xs"><span data-lego="react" class="icon icon_type_tick-green icon_size_xs"></span></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">1 февр., 08:29</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3559/tasks/25831"><h2 class="notification__title" title="Проверена задача: 0/14, wrong-answer">Проверена задача: 0/14, wrong-answer</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Тестирование is_correct_mobile_phone_number_ru()</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">Цели и подходы к тестированию. Создание «самодельных» тестов (без библиотек)</span></div></div></div></div><time class="notification__time">31 янв., 19:54</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3559/tasks/25831"><h2 class="notification__title" title="Проверена задача: 0/14, wrong-answer">Проверена задача: 0/14, wrong-answer</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Тестирование is_correct_mobile_phone_number_ru()</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">Цели и подходы к тестированию. Создание «самодельных» тестов (без библиотек)</span></div></div></div></div><time class="notification__time">31 янв., 19:49</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3559/tasks/25831"><h2 class="notification__title" title="Проверена задача: 0/14, presentation-error">Проверена задача: 0/14, presentation-error</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Тестирование is_correct_mobile_phone_number_ru()</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">Цели и подходы к тестированию. Создание «самодельных» тестов (без библиотек)</span></div></div></div></div><time class="notification__time">31 янв., 19:47</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25878"><h2 class="notification__title" title="Проверена задача: 50/50, ok">Проверена задача: 50/50, ok</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_green indicator_size_xs"><span data-lego="react" class="icon icon_type_tick-white icon_size_xs"></span></div></div><div class="task-preview__data"><span class="task-preview__task-name">Структура архива. Часть 2</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 19:44</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25878"><h2 class="notification__title" title="Проверена задача: 0/50, wrong-answer">Проверена задача: 0/50, wrong-answer</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Структура архива. Часть 2</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 19:38</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25878"><h2 class="notification__title" title="Проверена задача: 0/50, wrong-answer">Проверена задача: 0/50, wrong-answer</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Структура архива. Часть 2</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 19:36</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25878"><h2 class="notification__title" title="Проверена задача: 0/50, runtime-error">Проверена задача: 0/50, runtime-error</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Структура архива. Часть 2</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 19:34</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25878"><h2 class="notification__title" title="Проверена задача: 0/50, wrong-answer">Проверена задача: 0/50, wrong-answer</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Структура архива. Часть 2</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 19:29</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25878"><h2 class="notification__title" title="Проверена задача: 0/50, wrong-answer">Проверена задача: 0/50, wrong-answer</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_red indicator_size_xs"></div></div><div class="task-preview__data"><span class="task-preview__task-name">Структура архива. Часть 2</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 19:25</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li><li class="notification-center__item notification-center__item_theme_light"><a class="notification notification_type_link notification_theme_light" href="/courses/766/groups/5705/lessons/3561/tasks/25920"><h2 class="notification__title" title="Проверена задача: 50/50, ok">Проверена задача: 50/50, ok</h2><div class="notification__body notification__body_type_task"><div class="task-preview"><div class="task-preview__progress-indicator"><div class="indicator indicator_color_green indicator_size_xs"><span data-lego="react" class="icon icon_type_tick-white icon_size_xs"></span></div></div><div class="task-preview__data"><span class="task-preview__task-name">Москвичи</span><div class="task-preview__lesson"><div class="indicator indicator_color_white indicator_size_xs"></div><span class="task-preview__lesson-name">WEB. Работа с файловой системой и популярными форматами файлов: zip-архивами и json-файлами</span></div></div></div></div><time class="notification__time">31 янв., 14:50</time><span tabindex="0"><button type="button" class="Button2 Button2_size_s Button2_theme_clear Button2_view_lyceum notification__hide-button" autocomplete="off"><span data-lego="react" class="icon icon_type_remove icon_size_xs Button2-Icon"></span></button></span></a></li></ul></main></section></div><div data-lego="react" class="popup2 popup2_view_classic popup2_theme_normal popup2_target_anchor old-popup"><nav class="main-nav__menu"><header class="main-nav__header"><a rel="noopener noreferrer" target="_blank" class="main-nav__courses-link" href="/courses">Курсы<span data-lego="react" class="icon icon_type_new-window icon_size_m"></span></a></header><ul class="main-nav__course-list"><li class="main-nav__course-item"><a class="main-nav__course-link" href="/courses/902/groups/6947">Django | Отбор в Интенсивы Академии Яндекса | Весна 22/23</a></li><li class="main-nav__course-item"><a aria-current="page" class="main-nav__course-link main-nav__course-link main-nav__course-link_active main-nav__active-element" href="/courses/538/groups/4655">Основы программирования на языке Python | Д21</a></li><li class="main-nav__course-item"><a class="main-nav__course-link" href="/courses/766/groups/5705">Основы промышленного программирования | Д22</a></li></ul></nav></div><div data-lego="react" class="modal modal_autoclosable_yes modal_theme_normal modal_has-animation_yes"><div data-lego="react" class="modal__table"><div data-lego="react" class="modal__cell"><div data-lego="react" class="modal__content"><div class="question-form"><iframe frameborder="0" name="ya-form-11819452.adfc22b090b3d2a9d847022a876552c1f7a12267-0" src="https://forms.yandex.ru/surveys/11819452.adfc22b090b3d2a9d847022a876552c1f7a12267/?iframe=1" style="height: 0px;"></iframe><div class="question-form__spinner"><div data-lego="react" class="spin2 spin2_size_l spin2_view_default spin2_tone_default spin2_position_center spin2_progress_yes"></div></div></div></div></div></div></div><textarea tab-index="-1" aria-hidden="true" style="min-height: 0px !important; max-height: none !important; height: 0px !important; visibility: hidden !important; overflow: hidden !important; position: absolute !important; z-index: -1000 !important; top: 0px !important; right: 0px !important; letter-spacing: normal; line-height: 16px; font-family: &quot;YS Text&quot;, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif; font-weight: 400; font-size: 12px; font-style: normal; tab-size: 8; text-rendering: auto; text-transform: none; width: 213.523px; text-indent: 0px; padding: 10px 12px; border-width: 0px; box-sizing: border-box;"></textarea></body></html>
