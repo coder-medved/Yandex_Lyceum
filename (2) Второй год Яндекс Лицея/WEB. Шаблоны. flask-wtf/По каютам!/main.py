@@ -6,7 +6,7 @@ app.config['SECRET_KEY'] = 'yandexlyceum_secret_key'
 
 @app.route('/distribution', methods=['GET', 'POST'])
 def info():
-    return render_template('color.html', user_list=user_list)
+    return render_template('distribution.html', user_list=user_list)
 
 
 if __name__ == '__main__':
