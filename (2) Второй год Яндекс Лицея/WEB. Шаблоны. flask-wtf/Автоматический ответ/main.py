@@ -6,7 +6,7 @@ app = Flask(__name__)
 @app.route('/auto_answer')
 @app.route('/answer')
 def auto_answer():
-    return render_template('base.html', title=dicta["title"], dict_items=dicta,
+    return render_template('auto_answer.html', title=dicta["title"], dict_items=dicta,
                            url=url_for('static', filename='css/style.css'))
 
 

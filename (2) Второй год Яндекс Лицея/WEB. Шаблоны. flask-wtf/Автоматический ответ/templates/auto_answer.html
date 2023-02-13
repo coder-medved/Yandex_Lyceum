@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <form action="" method="post" novalidate>
+        <ul>
+            {% for key, value in dict_items.items() %}
+            {% if key != "title" %}
+            <li>
+                {{ key }}: {{ value }}
+            </li>
+            {% endif %}
+            {% endfor %}
+        </ul>
+    </form>
+{% endblock %}
