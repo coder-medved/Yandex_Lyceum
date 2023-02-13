@@ -1,13 +1,10 @@
 {% extends "base.html" %}
 
 {% block content %}
-    <form action="" method="post" novalidate>
-        <h1>Размещение по каютам</h1>
-        <ul>
-            {% for user in user_list %}
-            <li>{{ user }} - Каюта № {{ loop.index }} {% if loop.first %} - капитан корабля {% endif %}
-            </li>
-            {% endfor %}
-        </ul>
-    </form>
+<form action="" method="post" novalidate>
+    <h1>Размещение по каютам</h1>
+    {% for user in user_list %}
+    <li>{{ user }} - Каюта № {{ loop.index }} {% if loop.first %} - капитан корабля {% endif %}</li>
+    {% endfor %}
+</form>
 {% endblock %}
